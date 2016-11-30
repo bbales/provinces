@@ -1,21 +1,23 @@
-# provinces
+# someWhere
 
-state and province lists for countries
+Countries + Provinces/States. Populate those province and country dropdowns quickly with this one WEIRD trick!
+
+This repo was adapted from: [substack/provinces](https://github.com/substack/provinces)
 
 # Completeness
 
-This module currently has states and provinces for:
+This module currently has states/provinces for:
 
-* united states (US)
-* united kingdom (GB)
-* canada (CA)
-* mexico (MX)
-* australia (AU)
-* china (CN)
-* germany (DE)
-* belgium (BE)
-* netherlands (NL)
-* denmark (DK)
+* United States (US)
+* United Kingdom (GB)
+* Canada (CA)
+* Mexico (MX)
+* Australia (AU)
+* China (CN)
+* Germany (DE)
+* Belgium (BE)
+* Netherlands (NL)
+* Denmark (DK)
 * Turkey (TR)
 * Indonesia (ID)
 * Jordan (JO)
@@ -31,23 +33,26 @@ This module currently has states and provinces for:
 * Bangladesh (BD)
 * Pakistan (PK)
 * Nigeria (NG)
+* Austria (AT)
 * Japan (JP)
-* austria (AT)
-* brazil (BR)
+* Brazil (BR)
 * Philippines (PH)
 * Vietnam (VN)
 
 # Methods
 
-``` js
-var provinces = require('provinces')
-```
-
 Requiring the module returns an object containing two root keys:
 
 'countries' and 'provinces'
 
-Although 'provinces' is a misnomer for much of the data in this module, it was used to generalize regions, states, provinces etc.
+``` js
+var someWhere = require('someWhere')
+
+someWhere.countries; // Returns: [...], An array of countries
+someWhere.countries[n]; // Returns: {c : 'Canada', s : 'CA'}, a country object
+someWhere.provinces['CA']; // Returns: [{sp: 'AB', p: 'Alberta'},...], an array of province objects
+
+```
 
 # Data Format
 
@@ -67,10 +72,10 @@ Provinces is an object with country codes as keys, each country code key maps to
 
 # Install
 
-<!-- With [npm](https://npmjs.org) do: -->
+With [npm](https://npmjs.org) do:
 
 ```
-npm install provinces
+npm install someWhere
 ```
 
 # License
