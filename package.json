@@ -1,28 +1,26 @@
 {
-  "name": "provinces",
+  "name": "somewhere",
   "version": "0.0.1",
   "description": "Adapted from https://github.com/substack/provinces",
   "main": "index.js",
   "dependencies": {
-    "chinesecities": "~0.0.2"
   },
   "devDependencies": {
-    "has": "^1.0.0",
-    "tape": "^4.0.0"
   },
   "scripts": {
-    "test": "tape test/*.js"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/substack/provinces.git"
+    "url": "git://github.com/bbales/someWhere.git"
   },
-  "homepage": "https://github.com/bbales/provinces",
+  "homepage": "https://github.com/bbales/someWhere",
   "keywords": [
     "state",
     "province",
+    "region",
     "geo",
-    "data"
+    "data",
+    "address"
   ],
   "author": {
     "name": "Benjamin Bales",

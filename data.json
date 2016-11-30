@@ -585,346 +585,346 @@
         }],
         "GB": [{
             "p": "Avon"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Bedfordshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Berkshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Borders"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Bristol"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Buckinghamshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Cambridgeshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Channel Islands"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Cheshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Cleveland"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Cornwall"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Cumbria"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Derbyshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Devon"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Dorset"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Durham"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "East Riding of Yorkshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "East Sussex"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Essex"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Gloucestershire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Greater Manchester"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Hampshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Herefordshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Hertfordshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Humberside"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Isle of Man"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Isle of Wight"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Isles of Scilly"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Kent"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Lancashire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Leicestershire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Lincolnshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "London"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Merseyside"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Middlesex"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Norfolk"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "North Yorkshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Northamptonshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Northumberland"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Nottinghamshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Oxfordshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Rutland"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Shropshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Somerset"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "South Yorkshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Staffordshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Suffolk"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Surrey"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Tyne and Wear"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Warwickshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "West Midlands"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "West Sussex"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "West Yorkshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Wiltshire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Worcestershire"
-            "region": "England"
+            "reg": "England"
         }, {
             "p": "Antrim"
-            "region": "Northern Ireland"
+            "reg": "Northern Ireland"
         }, {
             "p": "Down"
-            "region": "Northern Ireland"
+            "reg": "Northern Ireland"
         }, {
             "p": "Fermanagh"
-            "region": "Northern Ireland"
+            "reg": "Northern Ireland"
         }, {
             "p": "Londonderry"
-            "region": "Northern Ireland"
+            "reg": "Northern Ireland"
         }, {
             "p": "Tyrone"
-            "region": "Northern Ireland"
+            "reg": "Northern Ireland"
         }, {
             "p": "Aberdeen City"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Aberdeenshire"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Angus"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Argyll and Bute"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Armagh"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Carmarthenshire"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Clackmannan"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Dumfries and Galloway"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "East Ayrshire"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "East Dunbartonshire"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "East Lothian"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "East Renfrewshire"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Edinburgh City"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Falkirk"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Fife"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Glasgow"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Highland"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Inverclyde"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Midlothian"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Moray"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "North Ayrshire"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "North Lanarkshire"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Orkney"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Perthshire and Kinross"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Renfrewshire"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Roxburghshire"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Shetland"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "South Ayrshire"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "South Lanarkshire"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Stirling"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "West Dunbartonshire"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "West Lothian"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Western Isles"
-            "region": "Scotland"
+            "reg": "Scotland"
         }, {
             "p": "Blaenau Gwent"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Bridgend"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Caerphilly"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Cardiff"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Ceredigion"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Conwy"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Denbighshire"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Flintshire"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Gwynedd"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Isle of Anglesey"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Merthyr Tydfil"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Monmouthshire"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Neath Port Talbot"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Newport"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Pembrokeshire"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Powys"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Rhondda Cynon Taff"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Swansea"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "The Vale of Glamorgan"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Torfaen"
-            "region": "Wales"
+            "reg": "Wales"
         }, {
             "p": "Wrexham"
-            "region": "Wales"
+            "reg": "Wales"
         }],
         "DE": [{
             "sp": "BW",
@@ -1476,79 +1476,79 @@
         }],
         "KH": [{
             "p": "ភ្នំពេញ",
-            "english": "Phnom Penh Municipality"
+            "eng": "Phnom Penh Municipality"
         }, {
             "p": "បន្ទាយមានជ័យ",
-            "english": "Banteay Meanchey"
+            "eng": "Banteay Meanchey"
         }, {
             "p": "បាត់ដំបង",
-            "english": "Battambang"
+            "eng": "Battambang"
         }, {
             "p": "កំពង់ចាម",
-            "english": "Kampong Cham"
+            "eng": "Kampong Cham"
         }, {
             "p": "កំពង់ឆ្នាំង",
-            "english": "Kampong Chhnang"
+            "eng": "Kampong Chhnang"
         }, {
             "p": "កំពង់ស្ពឺ",
-            "english": "Kampong Speu"
+            "eng": "Kampong Speu"
         }, {
             "p": "កំពង់ធំ",
-            "english": "Kampong Thom"
+            "eng": "Kampong Thom"
         }, {
             "p": "កំពត",
-            "english": "Kampot"
+            "eng": "Kampot"
         }, {
             "p": "កណ្តាល",
-            "english": "Kandal"
+            "eng": "Kandal"
         }, {
             "p": "កោះកុង",
-            "english": "Koh Kong"
+            "eng": "Koh Kong"
         }, {
             "p": "កែប",
-            "english": "Kep"
+            "eng": "Kep"
         }, {
             "p": "ក្រចេះ",
-            "english": "Kratié"
+            "eng": "Kratié"
         }, {
             "p": "មណ្ឌលគីរី",
-            "english": "Mondulkiri"
+            "eng": "Mondulkiri"
         }, {
             "p": "ឧត្តរមានជ័យ",
-            "english": "Oddar Meanchey"
+            "eng": "Oddar Meanchey"
         }, {
             "p": "បៃលិន",
-            "english": "Pailin"
+            "eng": "Pailin"
         }, {
             "p": "ព្រះសីហនុ",
-            "english": "Preah Sihanouk"
+            "eng": "Preah Sihanouk"
         }, {
             "p": "ព្រះវិហារ",
-            "english": "Preah Vihear"
+            "eng": "Preah Vihear"
         }, {
             "p": "ពោធិ៍សាត់",
-            "english": "Pursat"
+            "eng": "Pursat"
         }, {
             "p": "ព្រៃវែង",
-            "english": "Prey Veng"
+            "eng": "Prey Veng"
         }, {
             "p": "រតនគីរី",
-            "english": "Ratanakiri"
+            "eng": "Ratanakiri"
         }, {
             "p": "សៀមរាប",
-            "english": "Siem Reap"
+            "eng": "Siem Reap"
         }, {
             "p": "ស្ទឹងត្រែង",
-            "english": "Stung Treng"
+            "eng": "Stung Treng"
         }, {
             "p": "ស្វាយរៀង",
-            "english": "Svay Rieng"
+            "eng": "Svay Rieng"
         }, {
             "p": "តាកែវ",
-            "english": "Takéo"
+            "eng": "Takéo"
         }, {
             "p": "ត្បូងឃ្មុំ",
-            "english": "Tbong Khmum"
+            "eng": "Tbong Khmum"
         }],
         "ET": [{
             "p": "Addis Ababa"
@@ -1575,592 +1575,592 @@
         }],
         "PE": [{
             "p": "Chachapoyas",
-            "region": "Amazonas"
+            "reg": "Amazonas"
         }, {
             "p": "Bagua",
-            "region": "Amazonas"
+            "reg": "Amazonas"
         }, {
             "p": "Bongará",
-            "region": "Amazonas"
+            "reg": "Amazonas"
         }, {
             "p": "Condorcanqui",
-            "region": "Amazonas"
+            "reg": "Amazonas"
         }, {
             "p": "Luya",
-            "region": "Amazonas"
+            "reg": "Amazonas"
         }, {
             "p": "Rodríguez de Mendoza",
-            "region": "Amazonas"
+            "reg": "Amazonas"
         }, {
             "p": "Utcubamba",
-            "region": "Amazonas"
+            "reg": "Amazonas"
         }, {
             "p": "Huaraz",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Aija",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Antonio Raymondi",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Asunción",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Bolognesi",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Carhuaz",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Carlos Fermín Fitzcarrald",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Casma",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Corongo",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Huari",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Huarmey",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Huaylas",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Mariscal Luzuriaga",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Ocros",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Pallasca",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Pomabamba",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Recuay",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Santa",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Sihuas",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Yungay",
-            "region": "Ancash"
+            "reg": "Ancash"
         }, {
             "p": "Abancay",
-            "region": "Apurímac"
+            "reg": "Apurímac"
         }, {
             "p": "Andahuaylas",
-            "region": "Apurímac"
+            "reg": "Apurímac"
         }, {
             "p": "Antabamba",
-            "region": "Apurímac"
+            "reg": "Apurímac"
         }, {
             "p": "Aymaraes",
-            "region": "Apurímac"
+            "reg": "Apurímac"
         }, {
             "p": "Cotabambas",
-            "region": "Apurímac"
+            "reg": "Apurímac"
         }, {
             "p": "Chincheros",
-            "region": "Apurímac"
+            "reg": "Apurímac"
         }, {
             "p": "Grau",
-            "region": "Apurímac"
+            "reg": "Apurímac"
         }, {
             "p": "Arequipa",
-            "region": "Arequipa"
+            "reg": "Arequipa"
         }, {
             "p": "Camaná",
-            "region": "Arequipa"
+            "reg": "Arequipa"
         }, {
             "p": "Caravelí",
-            "region": "Arequipa"
+            "reg": "Arequipa"
         }, {
             "p": "Castilla",
-            "region": "Arequipa"
+            "reg": "Arequipa"
         }, {
             "p": "Caylloma",
-            "region": "Arequipa"
+            "reg": "Arequipa"
         }, {
             "p": "Condesuyos",
-            "region": "Arequipa"
+            "reg": "Arequipa"
         }, {
             "p": "Islay",
-            "region": "Arequipa"
+            "reg": "Arequipa"
         }, {
             "p": "La Unión",
-            "region": "Arequipa"
+            "reg": "Arequipa"
         }, {
             "p": "Huamanga",
-            "region": "Ayacucho"
+            "reg": "Ayacucho"
         }, {
             "p": "Cangallo",
-            "region": "Ayacucho"
+            "reg": "Ayacucho"
         }, {
             "p": "Huanca Sancos",
-            "region": "Ayacucho"
+            "reg": "Ayacucho"
         }, {
             "p": "Huanta",
-            "region": "Ayacucho"
+            "reg": "Ayacucho"
         }, {
             "p": "La Mar",
-            "region": "Ayacucho"
+            "reg": "Ayacucho"
         }, {
             "p": "Lucanas",
-            "region": "Ayacucho"
+            "reg": "Ayacucho"
         }, {
             "p": "Parinacochas",
-            "region": "Ayacucho"
+            "reg": "Ayacucho"
         }, {
             "p": "Páucar del Sara Sara",
-            "region": "Ayacucho"
+            "reg": "Ayacucho"
         }, {
             "p": "Sucre",
-            "region": "Ayacucho"
+            "reg": "Ayacucho"
         }, {
             "p": "Víctor Fajardo",
-            "region": "Ayacucho"
+            "reg": "Ayacucho"
         }, {
             "p": "Vilcas Huamán",
-            "region": "Ayacucho"
+            "reg": "Ayacucho"
         }, {
             "p": "Cajamarca",
-            "region": "Cajamarca"
+            "reg": "Cajamarca"
         }, {
             "p": "Cajabamba",
-            "region": "Cajamarca"
+            "reg": "Cajamarca"
         }, {
             "p": "Celendín",
-            "region": "Cajamarca"
+            "reg": "Cajamarca"
         }, {
             "p": "Chota",
-            "region": "Cajamarca"
+            "reg": "Cajamarca"
         }, {
             "p": "Contumazá",
-            "region": "Cajamarca"
+            "reg": "Cajamarca"
         }, {
             "p": "Cutervo",
-            "region": "Cajamarca"
+            "reg": "Cajamarca"
         }, {
             "p": "Hualgayoc",
-            "region": "Cajamarca"
+            "reg": "Cajamarca"
         }, {
             "p": "Jaén",
-            "region": "Cajamarca"
+            "reg": "Cajamarca"
         }, {
             "p": "San Ignacio",
-            "region": "Cajamarca"
+            "reg": "Cajamarca"
         }, {
             "p": "San Marcos",
-            "region": "Cajamarca"
+            "reg": "Cajamarca"
         }, {
             "p": "San Miguel",
-            "region": "Cajamarca"
+            "reg": "Cajamarca"
         }, {
             "p": "San Pablo",
-            "region": "Cajamarca"
+            "reg": "Cajamarca"
         }, {
             "p": "Santa Cruz",
-            "region": "Cajamarca"
+            "reg": "Cajamarca"
         }, {
             "p": "Callao",
-            "region": "Callao"
+            "reg": "Callao"
         }, {
             "p": "Cusco",
-            "region": "Cusco"
+            "reg": "Cusco"
         }, {
             "p": "Acomayo",
-            "region": "Cusco"
+            "reg": "Cusco"
         }, {
             "p": "Anta",
-            "region": "Cusco"
+            "reg": "Cusco"
         }, {
             "p": "Calca",
-            "region": "Cusco"
+            "reg": "Cusco"
         }, {
             "p": "Canas",
-            "region": "Cusco"
+            "reg": "Cusco"
         }, {
             "p": "Canchis",
-            "region": "Cusco"
+            "reg": "Cusco"
         }, {
             "p": "Chumbivilcas",
-            "region": "Cusco"
+            "reg": "Cusco"
         }, {
             "p": "Espinar",
-            "region": "Cusco"
+            "reg": "Cusco"
         }, {
             "p": "La Convención",
-            "region": "Cusco"
+            "reg": "Cusco"
         }, {
             "p": "Paruro",
-            "region": "Cusco"
+            "reg": "Cusco"
         }, {
             "p": "Paucartambo",
-            "region": "Cusco"
+            "reg": "Cusco"
         }, {
             "p": "Quispicanchi",
-            "region": "Cusco"
+            "reg": "Cusco"
         }, {
             "p": "Urubamba",
-            "region": "Cusco"
+            "reg": "Cusco"
         }, {
             "p": "Huancavelica",
-            "region": "Huancavelica"
+            "reg": "Huancavelica"
         }, {
             "p": "Acobamba",
-            "region": "Huancavelica"
+            "reg": "Huancavelica"
         }, {
             "p": "Angaraes",
-            "region": "Huancavelica"
+            "reg": "Huancavelica"
         }, {
             "p": "Castrovirreyna",
-            "region": "Huancavelica"
+            "reg": "Huancavelica"
         }, {
             "p": "Churcampa",
-            "region": "Huancavelica"
+            "reg": "Huancavelica"
         }, {
             "p": "Huaytará",
-            "region": "Huancavelica"
+            "reg": "Huancavelica"
         }, {
             "p": "Tayacaja",
-            "region": "Huancavelica"
+            "reg": "Huancavelica"
         }, {
             "p": "Huánuco",
-            "region": "Huánuco"
+            "reg": "Huánuco"
         }, {
             "p": "Ambo",
-            "region": "Huánuco"
+            "reg": "Huánuco"
         }, {
             "p": "Dos de Mayo",
-            "region": "Huánuco"
+            "reg": "Huánuco"
         }, {
             "p": "Huacaybamba",
-            "region": "Huánuco"
+            "reg": "Huánuco"
         }, {
             "p": "Huamalíes",
-            "region": "Huánuco"
+            "reg": "Huánuco"
         }, {
             "p": "Leoncio Prado",
-            "region": "Huánuco"
+            "reg": "Huánuco"
         }, {
             "p": "Marañón",
-            "region": "Huánuco"
+            "reg": "Huánuco"
         }, {
             "p": "Pachitea",
-            "region": "Huánuco"
+            "reg": "Huánuco"
         }, {
             "p": "Puerto Inca",
-            "region": "Huánuco"
+            "reg": "Huánuco"
         }, {
             "p": "Lauricocha",
-            "region": "Huánuco"
+            "reg": "Huánuco"
         }, {
             "p": "Yarowilca",
-            "region": "Huánuco"
+            "reg": "Huánuco"
         }, {
             "p": "Ica",
-            "region": "Ica"
+            "reg": "Ica"
         }, {
             "p": "Chincha",
-            "region": "Ica"
+            "reg": "Ica"
         }, {
             "p": "Nazca",
-            "region": "Ica"
+            "reg": "Ica"
         }, {
             "p": "Palpa",
-            "region": "Ica"
+            "reg": "Ica"
         }, {
             "p": "Pisco",
-            "region": "Ica"
+            "reg": "Ica"
         }, {
             "p": "Huancayo",
-            "region": "Junín"
+            "reg": "Junín"
         }, {
             "p": "Concepción",
-            "region": "Junín"
+            "reg": "Junín"
         }, {
             "p": "Chanchamayo",
-            "region": "Junín"
+            "reg": "Junín"
         }, {
             "p": "Jauja",
-            "region": "Junín"
+            "reg": "Junín"
         }, {
             "p": "Junín",
-            "region": "Junín"
+            "reg": "Junín"
         }, {
             "p": "Satipo",
-            "region": "Junín"
+            "reg": "Junín"
         }, {
             "p": "Tarma",
-            "region": "Junín"
+            "reg": "Junín"
         }, {
             "p": "Yauli",
-            "region": "Junín"
+            "reg": "Junín"
         }, {
             "p": "Chupaca",
-            "region": "Junín"
+            "reg": "Junín"
         }, {
             "p": "Trujillo",
-            "region": "La Libertad"
+            "reg": "La Libertad"
         }, {
             "p": "Ascope",
-            "region": "La Libertad"
+            "reg": "La Libertad"
         }, {
             "p": "Bolívar",
-            "region": "La Libertad"
+            "reg": "La Libertad"
         }, {
             "p": "Chepén",
-            "region": "La Libertad"
+            "reg": "La Libertad"
         }, {
             "p": "Julcán",
-            "region": "La Libertad"
+            "reg": "La Libertad"
         }, {
             "p": "Otuzco",
-            "region": "La Libertad"
+            "reg": "La Libertad"
         }, {
             "p": "Pacasmayo",
-            "region": "La Libertad"
+            "reg": "La Libertad"
         }, {
             "p": "Pataz",
-            "region": "La Libertad"
+            "reg": "La Libertad"
         }, {
             "p": "Sánchez Carrión",
-            "region": "La Libertad"
+            "reg": "La Libertad"
         }, {
             "p": "Santiago de Chuco",
-            "region": "La Libertad"
+            "reg": "La Libertad"
         }, {
             "p": "Gran Chimú",
-            "region": "La Libertad"
+            "reg": "La Libertad"
         }, {
             "p": "Virú",
-            "region": "La Libertad"
+            "reg": "La Libertad"
         }, {
             "p": "Chiclayo",
-            "region": "Lambayeque"
+            "reg": "Lambayeque"
         }, {
             "p": "Ferreñafe",
-            "region": "Lambayeque"
+            "reg": "Lambayeque"
         }, {
             "p": "Lambayeque",
-            "region": "Lambayeque"
+            "reg": "Lambayeque"
         }, {
             "p": "Lima",
-            "region": "autonomous"
+            "reg": "autonomous"
         }, {
             "p": "Huaura",
-            "region": "Lima"
+            "reg": "Lima"
         }, {
             "p": "Barranca",
-            "region": "Lima"
+            "reg": "Lima"
         }, {
             "p": "Cajatambo",
-            "region": "Lima"
+            "reg": "Lima"
         }, {
             "p": "Canta",
-            "region": "Lima"
+            "reg": "Lima"
         }, {
             "p": "Cañete",
-            "region": "Lima"
+            "reg": "Lima"
         }, {
             "p": "Huaral",
-            "region": "Lima"
+            "reg": "Lima"
         }, {
             "p": "Huarochirí",
-            "region": "Lima"
+            "reg": "Lima"
         }, {
             "p": "Oyón",
-            "region": "Lima"
+            "reg": "Lima"
         }, {
             "p": "Yauyos",
-            "region": "Lima"
+            "reg": "Lima"
         }, {
             "p": "Maynas",
-            "region": "Loreto"
+            "reg": "Loreto"
         }, {
             "p": "Alto Amazonas",
-            "region": "Loreto"
+            "reg": "Loreto"
         }, {
             "p": "Loreto",
-            "region": "Loreto"
+            "reg": "Loreto"
         }, {
             "p": "Mariscal Ramón Castilla",
-            "region": "Loreto"
+            "reg": "Loreto"
         }, {
             "p": "Putumayo",
-            "region": "Loreto"
+            "reg": "Loreto"
         }, {
             "p": "Requena",
-            "region": "Loreto"
+            "reg": "Loreto"
         }, {
             "p": "Ucayali",
-            "region": "Loreto"
+            "reg": "Loreto"
         }, {
             "p": "Datem del Marañón",
-            "region": "Loreto"
+            "reg": "Loreto"
         }, {
             "p": "Tambopata",
-            "region": "Madre de Dios"
+            "reg": "Madre de Dios"
         }, {
             "p": "Manú",
-            "region": "Madre de Dios"
+            "reg": "Madre de Dios"
         }, {
             "p": "Tahuamanu",
-            "region": "Madre de Dios"
+            "reg": "Madre de Dios"
         }, {
             "p": "Mariscal Nieto",
-            "region": "Moquegua"
+            "reg": "Moquegua"
         }, {
             "p": "General Sánchez Cerro",
-            "region": "Moquegua"
+            "reg": "Moquegua"
         }, {
             "p": "Ilo",
-            "region": "Moquegua"
+            "reg": "Moquegua"
         }, {
             "p": "Pasco",
-            "region": "Pasco"
+            "reg": "Pasco"
         }, {
             "p": "Daniel Alcídes Carrión",
-            "region": "Pasco"
+            "reg": "Pasco"
         }, {
             "p": "Oxapampa",
-            "region": "Pasco"
+            "reg": "Pasco"
         }, {
             "p": "Piura",
-            "region": "Piura"
+            "reg": "Piura"
         }, {
             "p": "Ayabaca",
-            "region": "Piura"
+            "reg": "Piura"
         }, {
             "p": "Huancabamba",
-            "region": "Piura"
+            "reg": "Piura"
         }, {
             "p": "Morropón",
-            "region": "Piura"
+            "reg": "Piura"
         }, {
             "p": "Paita",
-            "region": "Piura"
+            "reg": "Piura"
         }, {
             "p": "Sullana",
-            "region": "Piura"
+            "reg": "Piura"
         }, {
             "p": "Talara",
-            "region": "Piura"
+            "reg": "Piura"
         }, {
             "p": "Sechura",
-            "region": "Piura"
+            "reg": "Piura"
         }, {
             "p": "Puno",
-            "region": "Puno"
+            "reg": "Puno"
         }, {
             "p": "Azángaro",
-            "region": "Puno"
+            "reg": "Puno"
         }, {
             "p": "Carabaya",
-            "region": "Puno"
+            "reg": "Puno"
         }, {
             "p": "Chucuito",
-            "region": "Puno"
+            "reg": "Puno"
         }, {
             "p": "El Collao",
-            "region": "Puno"
+            "reg": "Puno"
         }, {
             "p": "Huancané",
-            "region": "Puno"
+            "reg": "Puno"
         }, {
             "p": "Lampa",
-            "region": "Puno"
+            "reg": "Puno"
         }, {
             "p": "Melgar",
-            "region": "Puno"
+            "reg": "Puno"
         }, {
             "p": "Moho",
-            "region": "Puno"
+            "reg": "Puno"
         }, {
             "p": "San Antonio de Putina",
-            "region": "Puno"
+            "reg": "Puno"
         }, {
             "p": "San Román",
-            "region": "Puno"
+            "reg": "Puno"
         }, {
             "p": "Sandia",
-            "region": "Puno"
+            "reg": "Puno"
         }, {
             "p": "Yunguyo",
-            "region": "Puno"
+            "reg": "Puno"
         }, {
             "p": "Moyobamba",
-            "region": "San Martín"
+            "reg": "San Martín"
         }, {
             "p": "Bellavista",
-            "region": "San Martín"
+            "reg": "San Martín"
         }, {
             "p": "El Dorado",
-            "region": "San Martín"
+            "reg": "San Martín"
         }, {
             "p": "Huallaga",
-            "region": "San Martín"
+            "reg": "San Martín"
         }, {
             "p": "Lamas",
-            "region": "San Martín"
+            "reg": "San Martín"
         }, {
             "p": "Mariscal Cáceres",
-            "region": "San Martín"
+            "reg": "San Martín"
         }, {
             "p": "Picota",
-            "region": "San Martín"
+            "reg": "San Martín"
         }, {
             "p": "Rioja",
-            "region": "San Martín"
+            "reg": "San Martín"
         }, {
             "p": "San Martín",
-            "region": "San Martín"
+            "reg": "San Martín"
         }, {
             "p": "Tocache",
-            "region": "San Martín"
+            "reg": "San Martín"
         }, {
             "p": "Tacna",
-            "region": "Tacna"
+            "reg": "Tacna"
         }, {
             "p": "Candarave",
-            "region": "Tacna"
+            "reg": "Tacna"
         }, {
             "p": "Jorge Basadre",
-            "region": "Tacna"
+            "reg": "Tacna"
         }, {
             "p": "Tarata",
-            "region": "Tacna"
+            "reg": "Tacna"
         }, {
             "p": "Tumbes",
-            "region": "Tumbes"
+            "reg": "Tumbes"
         }, {
             "p": "Contralmirante Villar",
-            "region": "Tumbes"
+            "reg": "Tumbes"
         }, {
             "p": "Zarumilla",
-            "region": "Tumbes"
+            "reg": "Tumbes"
         }, {
             "p": "Coronel Portillo",
-            "region": "Ucayali"
+            "reg": "Ucayali"
         }, {
             "p": "Atalaya",
-            "region": "Ucayali"
+            "reg": "Ucayali"
         }, {
             "p": "Padre Abad",
-            "region": "Ucayali"
+            "reg": "Ucayali"
         }, {
             "p": "Purús",
-            "region": "Ucayali"
+            "reg": "Ucayali"
         }],
         "CU": [{
             "p": "Camagüey"
@@ -2246,503 +2246,503 @@
         }],
         "CL": [{
             "p": "Arica",
-            "region": "XV Arica and Parinacota"
+            "reg": "XV Arica and Parinacota"
         }, {
             "p": "Parinacota",
-            "region": "XV Arica and Parinacota"
+            "reg": "XV Arica and Parinacota"
         }, {
             "p": "Iquique",
-            "region": "I Tarapacá"
+            "reg": "I Tarapacá"
         }, {
             "p": "Tamarugal",
-            "region": "I Tarapacá"
+            "reg": "I Tarapacá"
         }, {
             "p": "Antofagasta",
-            "region": "II Antofagasta"
+            "reg": "II Antofagasta"
         }, {
             "p": "El Loa",
-            "region": "II Antofagasta"
+            "reg": "II Antofagasta"
         }, {
             "p": "Tocopilla",
-            "region": "II Antofagasta"
+            "reg": "II Antofagasta"
         }, {
             "p": "Copiapó",
-            "region": "III Atacama"
+            "reg": "III Atacama"
         }, {
             "p": "Huasco",
-            "region": "III Atacama"
+            "reg": "III Atacama"
         }, {
             "p": "Chañaral",
-            "region": "III Atacama"
+            "reg": "III Atacama"
         }, {
             "p": "Elqui",
-            "region": "IV Coquimbo"
+            "reg": "IV Coquimbo"
         }, {
             "p": "Limarí",
-            "region": "IV Coquimbo"
+            "reg": "IV Coquimbo"
         }, {
             "p": "Choapa",
-            "region": "IV Coquimbo"
+            "reg": "IV Coquimbo"
         }, {
             "p": "Isla de Pascua",
-            "region": "V Valparaíso"
+            "reg": "V Valparaíso"
         }, {
             "p": "Los Andes",
-            "region": "V Valparaíso"
+            "reg": "V Valparaíso"
         }, {
             "p": "Marga Marga",
-            "region": "V Valparaíso"
+            "reg": "V Valparaíso"
         }, {
             "p": "Petorca",
-            "region": "V Valparaíso"
+            "reg": "V Valparaíso"
         }, {
             "p": "Quillota",
-            "region": "V Valparaíso"
+            "reg": "V Valparaíso"
         }, {
             "p": "San Antonio",
-            "region": "V Valparaíso"
+            "reg": "V Valparaíso"
         }, {
             "p": "San Felipe de Aconcagua",
-            "region": "V Valparaíso"
+            "reg": "V Valparaíso"
         }, {
             "p": "Valparaíso",
-            "region": "V Valparaíso"
+            "reg": "V Valparaíso"
         }, {
             "p": "Cachapoal",
-            "region": "VI O'Higgins"
+            "reg": "VI O'Higgins"
         }, {
             "p": "Colchagua",
-            "region": "VI O'Higgins"
+            "reg": "VI O'Higgins"
         }, {
             "p": "Cardenal Caro",
-            "region": "VI O'Higgins"
+            "reg": "VI O'Higgins"
         }, {
             "p": "Talca",
-            "region": "VII Maule"
+            "reg": "VII Maule"
         }, {
             "p": "Linares",
-            "region": "VII Maule"
+            "reg": "VII Maule"
         }, {
             "p": "Curicó",
-            "region": "VII Maule"
+            "reg": "VII Maule"
         }, {
             "p": "Cauquenes",
-            "region": "VII Maule"
+            "reg": "VII Maule"
         }, {
             "p": "Concepción",
-            "region": "VIII Biobío"
+            "reg": "VIII Biobío"
         }, {
             "p": "Ñuble",
-            "region": "VIII Biobío"
+            "reg": "VIII Biobío"
         }, {
             "p": "Biobío",
-            "region": "VIII Biobío"
+            "reg": "VIII Biobío"
         }, {
             "p": "Arauco",
-            "region": "VIII Biobío"
+            "reg": "VIII Biobío"
         }, {
             "p": "Cautin",
-            "region": "IX Araucanía"
+            "reg": "IX Araucanía"
         }, {
             "p": "Malleco",
-            "region": "IX Araucanía"
+            "reg": "IX Araucanía"
         }, {
             "p": "Valdivia",
-            "region": "XIV Los Ríos"
+            "reg": "XIV Los Ríos"
         }, {
             "p": "Ranco",
-            "region": "XIV Los Ríos"
+            "reg": "XIV Los Ríos"
         }, {
             "p": "Llanquihue",
-            "region": "X Los Lagos"
+            "reg": "X Los Lagos"
         }, {
             "p": "Osorno",
-            "region": "X Los Lagos"
+            "reg": "X Los Lagos"
         }, {
             "p": "Chiloe",
-            "region": "X Los Lagos"
+            "reg": "X Los Lagos"
         }, {
             "p": "Palena",
-            "region": "X Los Lagos"
+            "reg": "X Los Lagos"
         }, {
             "p": "Coihaique",
-            "region": "XI Aisén"
+            "reg": "XI Aisén"
         }, {
             "p": "Aisén",
-            "region": "XI Aisén"
+            "reg": "XI Aisén"
         }, {
             "p": "General Carrera",
-            "region": "XI Aisén"
+            "reg": "XI Aisén"
         }, {
             "p": "Capitan Prat",
-            "region": "XI Aisén"
+            "reg": "XI Aisén"
         }, {
             "p": "Magallanes",
-            "region": "XII Magallanes"
+            "reg": "XII Magallanes"
         }, {
             "p": "Ultima Esperanza",
-            "region": "XII Magallanes"
+            "reg": "XII Magallanes"
         }, {
             "p": "Tierra del Fuego",
-            "region": "XII Magallanes"
+            "reg": "XII Magallanes"
         }, {
             "p": "Antártica Chilena",
-            "region": "XII Magallanes"
+            "reg": "XII Magallanes"
         }, {
             "p": "Santiago",
-            "region": "RM Santiago Metropolitan"
+            "reg": "RM Santiago Metropolitan"
         }, {
             "p": "Cordillera",
-            "region": "RM Santiago Metropolitan"
+            "reg": "RM Santiago Metropolitan"
         }, {
             "p": "Maipo",
-            "region": "RM Santiago Metropolitan"
+            "reg": "RM Santiago Metropolitan"
         }, {
             "p": "Talagante",
-            "region": "RM Santiago Metropolitan"
+            "reg": "RM Santiago Metropolitan"
         }, {
             "p": "Melipilla",
-            "region": "RM Santiago Metropolitan"
+            "reg": "RM Santiago Metropolitan"
         }, {
             "p": "Chacabuco",
-            "region": "RM Santiago Metropolitan"
+            "reg": "RM Santiago Metropolitan"
         }],
         "BO": [{
             "p": "Cercado",
-            "region": "Beni"
+            "reg": "Beni"
         }, {
             "p": "Iténez",
-            "region": "Beni"
+            "reg": "Beni"
         }, {
             "p": "José Ballivián",
-            "region": "Beni"
+            "reg": "Beni"
         }, {
             "p": "Mamoré",
-            "region": "Beni"
+            "reg": "Beni"
         }, {
             "p": "Marbán",
-            "region": "Beni"
+            "reg": "Beni"
         }, {
             "p": "Moxos",
-            "region": "Beni"
+            "reg": "Beni"
         }, {
             "p": "Vaca Díez",
-            "region": "Beni"
+            "reg": "Beni"
         }, {
             "p": "Yacuma",
-            "region": "Beni"
+            "reg": "Beni"
         }, {
             "p": "Azurduy",
-            "region": "Chuquisaca"
+            "reg": "Chuquisaca"
         }, {
             "p": "Belisario Boeto",
-            "region": "Chuquisaca"
+            "reg": "Chuquisaca"
         }, {
             "p": "Hernando Siles",
-            "region": "Chuquisaca"
+            "reg": "Chuquisaca"
         }, {
             "p": "Jaime Zudáñez",
-            "region": "Chuquisaca"
+            "reg": "Chuquisaca"
         }, {
             "p": "Luis Calvo",
-            "region": "Chuquisaca"
+            "reg": "Chuquisaca"
         }, {
             "p": "Nor Cinti",
-            "region": "Chuquisaca"
+            "reg": "Chuquisaca"
         }, {
             "p": "Oropeza",
-            "region": "Chuquisaca"
+            "reg": "Chuquisaca"
         }, {
             "p": "Sud Cinti",
-            "region": "Chuquisaca"
+            "reg": "Chuquisaca"
         }, {
             "p": "Tomina",
-            "region": "Chuquisaca"
+            "reg": "Chuquisaca"
         }, {
             "p": "Yamparáez",
-            "region": "Chuquisaca"
+            "reg": "Chuquisaca"
         }, {
             "p": "Arani",
-            "region": "Cochabamba"
+            "reg": "Cochabamba"
         }, {
             "p": "Arque",
-            "region": "Cochabamba"
+            "reg": "Cochabamba"
         }, {
             "p": "Ayopaya",
-            "region": "Cochabamba"
+            "reg": "Cochabamba"
         }, {
             "p": "Capinota",
-            "region": "Cochabamba"
+            "reg": "Cochabamba"
         }, {
             "p": "Carrasco",
-            "region": "Cochabamba"
+            "reg": "Cochabamba"
         }, {
             "p": "Cercado",
-            "region": "Cochabamba"
+            "reg": "Cochabamba"
         }, {
             "p": "Chapare",
-            "region": "Cochabamba"
+            "reg": "Cochabamba"
         }, {
             "p": "Esteban Arce",
-            "region": "Cochabamba"
+            "reg": "Cochabamba"
         }, {
             "p": "Germán Jordán",
-            "region": "Cochabamba"
+            "reg": "Cochabamba"
         }, {
             "p": "Mizque",
-            "region": "Cochabamba"
+            "reg": "Cochabamba"
         }, {
             "p": "Campero",
-            "region": "Cochabamba"
+            "reg": "Cochabamba"
         }, {
             "p": "Punata",
-            "region": "Cochabamba"
+            "reg": "Cochabamba"
         }, {
             "p": "Quillacollo",
-            "region": "Cochabamba"
+            "reg": "Cochabamba"
         }, {
             "p": "Bolívar",
-            "region": "Cochabamba"
+            "reg": "Cochabamba"
         }, {
             "p": "Tapacarí",
-            "region": "Cochabamba"
+            "reg": "Cochabamba"
         }, {
             "p": "Tiraque",
-            "region": "Cochabamba"
+            "reg": "Cochabamba"
         }, {
             "p": "Abel Iturralde",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Aroma",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Bautista Saavedra",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Caranavi",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Eliodoro Camacho",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Franz Tamayo",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Gualberto Villarroel",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Ingavi",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Inquisivi",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "José Manuel Pando",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Larecaja",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Loayza",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Los Andes",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Manco Kapac",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Muñecas",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Nor Yungas",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Omasuyos",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Pacajes",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Murillo",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Sud Yungas",
-            "region": "La Paz"
+            "reg": "La Paz"
         }, {
             "p": "Atahuallpa",
-            "region": "Oruro"
+            "reg": "Oruro"
         }, {
             "p": "Carangas",
-            "region": "Oruro"
+            "reg": "Oruro"
         }, {
             "p": "Cercado",
-            "region": "Oruro"
+            "reg": "Oruro"
         }, {
             "p": "Eduardo Avaroa",
-            "region": "Oruro"
+            "reg": "Oruro"
         }, {
             "p": "Ladislao Cabrera",
-            "region": "Oruro"
+            "reg": "Oruro"
         }, {
             "p": "Litoral",
-            "region": "Oruro"
+            "reg": "Oruro"
         }, {
             "p": "Nor Carangas",
-            "region": "Oruro"
+            "reg": "Oruro"
         }, {
             "p": "Pantaléon Dalence",
-            "region": "Oruro"
+            "reg": "Oruro"
         }, {
             "p": "Poopó",
-            "region": "Oruro"
+            "reg": "Oruro"
         }, {
             "p": "Puerto de Mejillones",
-            "region": "Oruro"
+            "reg": "Oruro"
         }, {
             "p": "Sajama",
-            "region": "Oruro"
+            "reg": "Oruro"
         }, {
             "p": "San Pedro de Totora",
-            "region": "Oruro"
+            "reg": "Oruro"
         }, {
             "p": "Saucarí",
-            "region": "Oruro"
+            "reg": "Oruro"
         }, {
             "p": "Sebastián Pagador",
-            "region": "Oruro"
+            "reg": "Oruro"
         }, {
             "p": "Sud Carangas",
-            "region": "Oruro"
+            "reg": "Oruro"
         }, {
             "p": "Tomas Barrón",
-            "region": "Oruro"
+            "reg": "Oruro"
         }, {
             "p": "Abuná",
-            "region": "Pando"
+            "reg": "Pando"
         }, {
             "p": "Federico Román",
-            "region": "Pando"
+            "reg": "Pando"
         }, {
             "p": "Madre de Dios",
-            "region": "Pando"
+            "reg": "Pando"
         }, {
             "p": "Manuripi",
-            "region": "Pando"
+            "reg": "Pando"
         }, {
             "p": "Nicolás Suárez",
-            "region": "Pando"
+            "reg": "Pando"
         }, {
             "p": "Alonso de Ibáñez",
-            "region": "Potosí"
+            "reg": "Potosí"
         }, {
             "p": "Antonio Quijarro",
-            "region": "Potosí"
+            "reg": "Potosí"
         }, {
             "p": "Bernardino Bilbao",
-            "region": "Potosí"
+            "reg": "Potosí"
         }, {
             "p": "Charcas",
-            "region": "Potosí"
+            "reg": "Potosí"
         }, {
             "p": "Chayanta",
-            "region": "Potosí"
+            "reg": "Potosí"
         }, {
             "p": "Cornelio Saavedra",
-            "region": "Potosí"
+            "reg": "Potosí"
         }, {
             "p": "Daniel Campos",
-            "region": "Potosí"
+            "reg": "Potosí"
         }, {
             "p": "Enrique Baldivieso",
-            "region": "Potosí"
+            "reg": "Potosí"
         }, {
             "p": "José María Linares",
-            "region": "Potosí"
+            "reg": "Potosí"
         }, {
             "p": "Modesto Omiste",
-            "region": "Potosí"
+            "reg": "Potosí"
         }, {
             "p": "Nor Chichas",
-            "region": "Potosí"
+            "reg": "Potosí"
         }, {
             "p": "Nor Lípez",
-            "region": "Potosí"
+            "reg": "Potosí"
         }, {
             "p": "Rafael Bustillo",
-            "region": "Potosí"
+            "reg": "Potosí"
         }, {
             "p": "Sur Chichas",
-            "region": "Potosí"
+            "reg": "Potosí"
         }, {
             "p": "Sur Lípez",
-            "region": "Potosí"
+            "reg": "Potosí"
         }, {
             "p": "Tomás Frías",
-            "region": "Potosí"
+            "reg": "Potosí"
         }, {
             "p": "Andrés Ibáñez",
-            "region": "Santa Cruz"
+            "reg": "Santa Cruz"
         }, {
             "p": "Ángel Sandoval",
-            "region": "Santa Cruz"
+            "reg": "Santa Cruz"
         }, {
             "p": "Chiquitos",
-            "region": "Santa Cruz"
+            "reg": "Santa Cruz"
         }, {
             "p": "Cordillera",
-            "region": "Santa Cruz"
+            "reg": "Santa Cruz"
         }, {
             "p": "Florida",
-            "region": "Santa Cruz"
+            "reg": "Santa Cruz"
         }, {
             "p": "Germán Busch",
-            "region": "Santa Cruz"
+            "reg": "Santa Cruz"
         }, {
             "p": "Guarayos",
-            "region": "Santa Cruz"
+            "reg": "Santa Cruz"
         }, {
             "p": "Ichilo",
-            "region": "Santa Cruz"
+            "reg": "Santa Cruz"
         }, {
             "p": "Ignacio Warnes",
-            "region": "Santa Cruz"
+            "reg": "Santa Cruz"
         }, {
             "p": "José Miguel de Velasco",
-            "region": "Santa Cruz"
+            "reg": "Santa Cruz"
         }, {
             "p": "Manuel María Caballero",
-            "region": "Santa Cruz"
+            "reg": "Santa Cruz"
         }, {
             "p": "Ñuflo de Chávez",
-            "region": "Santa Cruz"
+            "reg": "Santa Cruz"
         }, {
             "p": "Obispo Santistevan",
-            "region": "Santa Cruz"
+            "reg": "Santa Cruz"
         }, {
             "p": "Sara",
-            "region": "Santa Cruz"
+            "reg": "Santa Cruz"
         }, {
             "p": "Vallegrande",
-            "region": "Santa Cruz"
+            "reg": "Santa Cruz"
         }, {
             "p": "Aniceto Arce",
-            "region": "Tarija"
+            "reg": "Tarija"
         }, {
             "p": "Burnet O'Connor",
-            "region": "Tarija"
+            "reg": "Tarija"
         }, {
             "p": "Cercado",
-            "region": "Tarija"
+            "reg": "Tarija"
         }, {
             "p": "Eustaquio Méndez",
-            "region": "Tarija"
+            "reg": "Tarija"
         }, {
             "p": "Gran Chaco",
-            "region": "Tarija"
+            "reg": "Tarija"
         }, {
             "p": "José María Avilés",
-            "region": "Tarija"
+            "reg": "Tarija"
         }],
         "ES": [{
             "p": "La Coruña",
@@ -2885,260 +2885,260 @@
         }],
         "BD": [{
             "p": "বরগুনা",
-            "english": "Barguna",
-            "region": "Barisal"
+            "eng": "Barguna",
+            "reg": "Barisal"
         }, {
             "p": "বরিশাল",
-            "english": "Barisal",
-            "region": "Barisal"
+            "eng": "Barisal",
+            "reg": "Barisal"
         }, {
             "p": "ভোলা",
-            "english": "Bhola",
-            "region": "Barisal"
+            "eng": "Bhola",
+            "reg": "Barisal"
         }, {
             "p": "ঝালকাঠি",
-            "english": "Jhalokati",
-            "region": "Barisal"
+            "eng": "Jhalokati",
+            "reg": "Barisal"
         }, {
             "p": "পটুয়াখালী",
-            "english": "Patuakhali",
-            "region": "Barisal"
+            "eng": "Patuakhali",
+            "reg": "Barisal"
         }, {
             "p": "পিরোজপুর",
-            "english": "Pirojpur",
-            "region": "Barisal"
+            "eng": "Pirojpur",
+            "reg": "Barisal"
         }, {
             "p": "বান্দরবান",
-            "english": "Bandarban",
-            "region": "Chittagong"
+            "eng": "Bandarban",
+            "reg": "Chittagong"
         }, {
             "p": "ব্রাহ্মণবাড়ীয়া",
-            "english": "Brahmanbaria",
-            "region": "Chittagong"
+            "eng": "Brahmanbaria",
+            "reg": "Chittagong"
         }, {
             "p": "চাঁদপুর",
-            "english": "Chandpur",
-            "region": "Chittagong"
+            "eng": "Chandpur",
+            "reg": "Chittagong"
         }, {
             "p": "চট্টগ্রাম",
-            "english": "Chittagong",
-            "region": "Chittagong"
+            "eng": "Chittagong",
+            "reg": "Chittagong"
         }, {
             "p": "কুমিল্লা",
-            "english": "Comilla",
-            "region": "Chittagong"
+            "eng": "Comilla",
+            "reg": "Chittagong"
         }, {
             "p": "কক্সবাজার",
-            "english": "Cox's Bazar",
-            "region": "Chittagong"
+            "eng": "Cox's Bazar",
+            "reg": "Chittagong"
         }, {
             "p": "ফেনী",
-            "english": "Feni",
-            "region": "Chittagong"
+            "eng": "Feni",
+            "reg": "Chittagong"
         }, {
             "p": "খাগড়াছড়ি",
-            "english": "Khagrachhari",
-            "region": "Chittagong"
+            "eng": "Khagrachhari",
+            "reg": "Chittagong"
         }, {
             "p": "লক্ষীপুর",
-            "english": "Lakshmipur",
-            "region": "Chittagong"
+            "eng": "Lakshmipur",
+            "reg": "Chittagong"
         }, {
             "p": "নোয়াখালী",
-            "english": "Noakhali",
-            "region": "Chittagong"
+            "eng": "Noakhali",
+            "reg": "Chittagong"
         }, {
             "p": "রাঙ্গামাটি",
-            "english": "Rangamati",
-            "region": "Chittagong"
+            "eng": "Rangamati",
+            "reg": "Chittagong"
         }, {
             "p": "ঢাকা",
-            "english": "Dhaka",
-            "region": "Dhaka"
+            "eng": "Dhaka",
+            "reg": "Dhaka"
         }, {
             "p": "ফরিদপুর",
-            "english": "Faridpur",
-            "region": "Dhaka"
+            "eng": "Faridpur",
+            "reg": "Dhaka"
         }, {
             "p": "গাজীপুর",
-            "english": "Gazipur",
-            "region": "Dhaka"
+            "eng": "Gazipur",
+            "reg": "Dhaka"
         }, {
             "p": "গোপালগঞ্জ",
-            "english": "Gopalganj",
-            "region": "Dhaka"
+            "eng": "Gopalganj",
+            "reg": "Dhaka"
         }, {
             "p": "জামালপুর",
-            "english": "Jamalpur",
-            "region": "Dhaka"
+            "eng": "Jamalpur",
+            "reg": "Dhaka"
         }, {
             "p": "কিশোরগঞ্জ",
-            "english": "Kishoreganj",
-            "region": "Dhaka"
+            "eng": "Kishoreganj",
+            "reg": "Dhaka"
         }, {
             "p": "মাদারীপুর",
-            "english": "Madaripur",
-            "region": "Dhaka"
+            "eng": "Madaripur",
+            "reg": "Dhaka"
         }, {
             "p": "মানিকগঞ্জ",
-            "english": "Manikganj",
-            "region": "Dhaka"
+            "eng": "Manikganj",
+            "reg": "Dhaka"
         }, {
             "p": "মুন্সীগঞ্জ",
-            "english": "Munshiganj",
-            "region": "Dhaka"
+            "eng": "Munshiganj",
+            "reg": "Dhaka"
         }, {
             "p": "ময়মনসিংহ",
-            "english": "Mymensingh",
-            "region": "Dhaka"
+            "eng": "Mymensingh",
+            "reg": "Dhaka"
         }, {
             "p": "নারায়ণগঞ্জ",
-            "english": "Narayanganj",
-            "region": "Dhaka"
+            "eng": "Narayanganj",
+            "reg": "Dhaka"
         }, {
             "p": "নরসিংদী",
-            "english": "Narsingdi",
-            "region": "Dhaka"
+            "eng": "Narsingdi",
+            "reg": "Dhaka"
         }, {
             "p": "নেত্রকোনা",
-            "english": "Netrakona",
-            "region": "Dhaka"
+            "eng": "Netrakona",
+            "reg": "Dhaka"
         }, {
             "p": "রাজবাড়ী",
-            "english": "Rajbari",
-            "region": "Dhaka"
+            "eng": "Rajbari",
+            "reg": "Dhaka"
         }, {
             "p": "শরীয়তপুর",
-            "english": "Shariatpur",
-            "region": "Dhaka"
+            "eng": "Shariatpur",
+            "reg": "Dhaka"
         }, {
             "p": "শেরপুর",
-            "english": "Sherpur",
-            "region": "Dhaka"
+            "eng": "Sherpur",
+            "reg": "Dhaka"
         }, {
             "p": "টাঙ্গাইল",
-            "english": "Tangail",
-            "region": "Dhaka"
+            "eng": "Tangail",
+            "reg": "Dhaka"
         }, {
             "p": "বাগেরহাট",
-            "english": "Bagerhat",
-            "region": "Khulna"
+            "eng": "Bagerhat",
+            "reg": "Khulna"
         }, {
             "p": "চুয়াডাঙ্গা",
-            "english": "Chuadanga",
-            "region": "Khulna"
+            "eng": "Chuadanga",
+            "reg": "Khulna"
         }, {
             "p": "যশোর",
-            "english": "Jessore",
-            "region": "Khulna"
+            "eng": "Jessore",
+            "reg": "Khulna"
         }, {
             "p": "ঝিনাইদহ",
-            "english": "Jhenaidah",
-            "region": "Khulna"
+            "eng": "Jhenaidah",
+            "reg": "Khulna"
         }, {
             "p": "খুলনা",
-            "english": "Khulna",
-            "region": "Khulna"
+            "eng": "Khulna",
+            "reg": "Khulna"
         }, {
             "p": "কুষ্টিয়া",
-            "english": "Kushtia",
-            "region": "Khulna"
+            "eng": "Kushtia",
+            "reg": "Khulna"
         }, {
             "p": "মাগুরা",
-            "english": "Magura",
-            "region": "Khulna"
+            "eng": "Magura",
+            "reg": "Khulna"
         }, {
             "p": "মেহেরপুর",
-            "english": "Meherpur",
-            "region": "Khulna"
+            "eng": "Meherpur",
+            "reg": "Khulna"
         }, {
             "p": "নড়াইল",
-            "english": "Narail",
-            "region": "Khulna"
+            "eng": "Narail",
+            "reg": "Khulna"
         }, {
             "p": "সাতক্ষিরা",
-            "english": "Satkhira",
-            "region": "Khulna"
+            "eng": "Satkhira",
+            "reg": "Khulna"
         }, {
             "p": "বগুড়া",
-            "english": "Bogra",
-            "region": "Rajshahi"
+            "eng": "Bogra",
+            "reg": "Rajshahi"
         }, {
             "p": "জয়পুরহাট",
-            "english": "Joypurhat",
-            "region": "Rajshahi"
+            "eng": "Joypurhat",
+            "reg": "Rajshahi"
         }, {
             "p": "নওগাঁ",
-            "english": "Naogaon",
-            "region": "Rajshahi"
+            "eng": "Naogaon",
+            "reg": "Rajshahi"
         }, {
             "p": "নাটোর",
-            "english": "Natore",
-            "region": "Rajshahi"
+            "eng": "Natore",
+            "reg": "Rajshahi"
         }, {
             "p": "নওয়াবগঞ্জ",
-            "english": "Chapainawabganj",
-            "region": "Rajshahi"
+            "eng": "Chapainawabganj",
+            "reg": "Rajshahi"
         }, {
             "p": "পাবনা",
-            "english": "Pabna",
-            "region": "Rajshahi"
+            "eng": "Pabna",
+            "reg": "Rajshahi"
         }, {
             "p": "রাজশাহী",
-            "english": "Rajshahi",
-            "region": "Rajshahi"
+            "eng": "Rajshahi",
+            "reg": "Rajshahi"
         }, {
             "p": "সিরাজগঞ্জ",
-            "english": "Sirajganj",
-            "region": "Rajshahi"
+            "eng": "Sirajganj",
+            "reg": "Rajshahi"
         }, {
             "p": "দিনাজপুর",
-            "english": "Dinajpur",
-            "region": "Rangpur"
+            "eng": "Dinajpur",
+            "reg": "Rangpur"
         }, {
             "p": "গাইবান্ধা",
-            "english": "Gaibandha",
-            "region": "Rangpur"
+            "eng": "Gaibandha",
+            "reg": "Rangpur"
         }, {
             "p": "কুড়িগ্রাম",
-            "english": "Kurigram",
-            "region": "Rangpur"
+            "eng": "Kurigram",
+            "reg": "Rangpur"
         }, {
             "p": "লালমনিরহাট",
-            "english": "Lalmonirhat",
-            "region": "Rangpur"
+            "eng": "Lalmonirhat",
+            "reg": "Rangpur"
         }, {
             "p": "নীলফামারী",
-            "english": "Nilphamari",
-            "region": "Rangpur"
+            "eng": "Nilphamari",
+            "reg": "Rangpur"
         }, {
             "p": "পঞ্চগড়",
-            "english": "Panchagarh",
-            "region": "Rangpur"
+            "eng": "Panchagarh",
+            "reg": "Rangpur"
         }, {
             "p": "রংপুর",
-            "english": "Rangpur",
-            "region": "Rangpur"
+            "eng": "Rangpur",
+            "reg": "Rangpur"
         }, {
             "p": "ঠাকুরগাঁ",
-            "english": "Thakurgaon",
-            "region": "Rangpur"
+            "eng": "Thakurgaon",
+            "reg": "Rangpur"
         }, {
             "p": "হবিগঞ্জ",
-            "english": "Habiganj",
-            "region": "Sylhet"
+            "eng": "Habiganj",
+            "reg": "Sylhet"
         }, {
             "p": "মৌলভীবাজার",
-            "english": "Moulvibazar",
-            "region": "Sylhet"
+            "eng": "Moulvibazar",
+            "reg": "Sylhet"
         }, {
             "p": "সুনামগঞ্জ",
-            "english": "Sunamganj",
-            "region": "Sylhet"
+            "eng": "Sunamganj",
+            "reg": "Sylhet"
         }, {
             "p": "সিলেট",
-            "english": "Sylhet",
-            "region": "Sylhet"
+            "eng": "Sylhet",
+            "reg": "Sylhet"
         }],
         "PK": [{
             "p": "Azad Kashmir"
@@ -3230,145 +3230,145 @@
         }],
         "JP": [{
             "p": "愛知県",
-            "english": "Aichi"
+            "eng": "Aichi"
         }, {
             "p": "秋田県",
-            "english": "Akita"
+            "eng": "Akita"
         }, {
             "p": "青森県",
-            "english": "Aomori"
+            "eng": "Aomori"
         }, {
             "p": "千葉県",
-            "english": "Chiba"
+            "eng": "Chiba"
         }, {
             "p": "愛媛県",
-            "english": "Ehime"
+            "eng": "Ehime"
         }, {
             "p": "福井県",
-            "english": "Fukui"
+            "eng": "Fukui"
         }, {
             "p": "福岡県",
-            "english": "Fukuoka"
+            "eng": "Fukuoka"
         }, {
             "p": "福島県",
-            "english": "Fukushima"
+            "eng": "Fukushima"
         }, {
             "p": "岐阜県",
-            "english": "Gifu"
+            "eng": "Gifu"
         }, {
             "p": "群馬県",
-            "english": "Gunma"
+            "eng": "Gunma"
         }, {
             "p": "広島県",
-            "english": "Hiroshima"
+            "eng": "Hiroshima"
         }, {
             "p": "北海道",
-            "english": "Hokkaidō"
+            "eng": "Hokkaidō"
         }, {
             "p": "兵庫県",
-            "english": "Hyōgo"
+            "eng": "Hyōgo"
         }, {
             "p": "茨城県",
-            "english": "Ibaraki"
+            "eng": "Ibaraki"
         }, {
             "p": "石川県",
-            "english": "Ishikawa"
+            "eng": "Ishikawa"
         }, {
             "p": "岩手県",
-            "english": "Iwate"
+            "eng": "Iwate"
         }, {
             "p": "香川県",
-            "english": "Kagawa"
+            "eng": "Kagawa"
         }, {
             "p": "鹿児島県",
-            "english": "Kagoshima"
+            "eng": "Kagoshima"
         }, {
             "p": "神奈川県",
-            "english": "Kanagawa"
+            "eng": "Kanagawa"
         }, {
             "p": "高知県",
-            "english": "Kōchi"
+            "eng": "Kōchi"
         }, {
             "p": "熊本県",
-            "english": "Kumamoto"
+            "eng": "Kumamoto"
         }, {
             "p": "京都府",
-            "english": "Kyōto"
+            "eng": "Kyōto"
         }, {
             "p": "三重県",
-            "english": "Mie"
+            "eng": "Mie"
         }, {
             "p": "宮城県",
-            "english": "Miyagi"
+            "eng": "Miyagi"
         }, {
             "p": "宮崎県",
-            "english": "Miyazaki"
+            "eng": "Miyazaki"
         }, {
             "p": "長野県",
-            "english": "Nagano"
+            "eng": "Nagano"
         }, {
             "p": "長崎県",
-            "english": "Nagasaki"
+            "eng": "Nagasaki"
         }, {
             "p": "奈良県",
-            "english": "Nara"
+            "eng": "Nara"
         }, {
             "p": "新潟県",
-            "english": "Niigata"
+            "eng": "Niigata"
         }, {
             "p": "大分県",
-            "english": "Ōita"
+            "eng": "Ōita"
         }, {
             "p": "岡山県",
-            "english": "Okayama"
+            "eng": "Okayama"
         }, {
             "p": "沖縄県",
-            "english": "Okinawa"
+            "eng": "Okinawa"
         }, {
             "p": "大阪府",
-            "english": "Ōsaka"
+            "eng": "Ōsaka"
         }, {
             "p": "佐賀県",
-            "english": "Saga"
+            "eng": "Saga"
         }, {
             "p": "埼玉県",
-            "english": "Saitama"
+            "eng": "Saitama"
         }, {
             "p": "滋賀県",
-            "english": "Shiga"
+            "eng": "Shiga"
         }, {
             "p": "島根県",
-            "english": "Shimane"
+            "eng": "Shimane"
         }, {
             "p": "静岡県",
-            "english": "Shizuoka"
+            "eng": "Shizuoka"
         }, {
             "p": "栃木県",
-            "english": "Tochigi"
+            "eng": "Tochigi"
         }, {
             "p": "徳島県",
-            "english": "Tokushima"
+            "eng": "Tokushima"
         }, {
             "p": "東京都",
-            "english": "Tōkyō"
+            "eng": "Tōkyō"
         }, {
             "p": "鳥取県",
-            "english": "Tottori"
+            "eng": "Tottori"
         }, {
             "p": "富山県",
-            "english": "Toyama"
+            "eng": "Toyama"
         }, {
             "p": "和歌山県",
-            "english": "Wakayama"
+            "eng": "Wakayama"
         }, {
             "p": "山形県",
-            "english": "Yamagata"
+            "eng": "Yamagata"
         }, {
             "p": "山口県",
-            "english": "Yamaguchi"
+            "eng": "Yamaguchi"
         }, {
             "p": "山梨県",
-            "english": "Yamanashi"
+            "eng": "Yamanashi"
         }],
         "AT": [{
             "sp": "B",

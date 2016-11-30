@@ -67,8 +67,8 @@ Provinces is an object with country codes as keys, each country code key maps to
 
 [Properties only available in some country keys]
 * 'sp' : Abbreviated name
-* 'region' : Region name
-* 'english' : Name in english
+* 'reg' : Region name
+* 'eng' : Name in english
 
 # Install
 
