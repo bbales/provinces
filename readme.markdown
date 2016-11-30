@@ -63,12 +63,12 @@ Countries cosists of objects containing:
 
 Provinces is an object with country codes as keys, each country code key maps to an object containing:
 
-(- designates that this property is only available in some country key objects)
-
 * 'p' : Province name
-- 'sp' : Abbreviated name
-- 'region' : Region name
-- 'english' : Name in english
+
+[Properties only available in some country keys]
+* 'sp' : Abbreviated name
+* 'region' : Region name
+* 'english' : Name in english
 
 # Install
 
