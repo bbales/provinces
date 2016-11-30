@@ -1,7 +1,7 @@
 {
   "name": "provinces",
-  "version": "1.8.2",
-  "description": "state and province lists for countries",
+  "version": "0.0.1",
+  "description": "Adapted from https://github.com/substack/provinces",
   "main": "index.js",
   "dependencies": {
     "chinesecities": "~0.0.2"
@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git://github.com/substack/provinces.git"
   },
-  "homepage": "https://github.com/substack/provinces",
+  "homepage": "https://github.com/bbales/provinces",
   "keywords": [
     "state",
     "province",
@@ -25,9 +25,9 @@
     "data"
   ],
   "author": {
-    "name": "James Halliday",
-    "email": "mail@substack.net",
-    "url": "http://substack.net"
+    "name": "Benjamin Bales",
+    "email": "ben.bales.dev@gmail.com",
+    "url": "ben.bales.dev@gmail.com"
   },
   "license": "MIT"
 }

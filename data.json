@@ -1,0 +1,3776 @@
+{
+    countries: [{
+        "c": "Argentina",
+        "s": "AR"
+    }, {
+        "c": "Australia",
+        "s": "AU"
+    }, {
+        "c": "Austria",
+        "s": "AT"
+    }, {
+        "c": "Bangladesh",
+        "s": "BD"
+    }, {
+        "c": "Belgium",
+        "s": "BE"
+    }, {
+        "c": "Bolivia",
+        "s": "BO"
+    }, {
+        "c": "Brazil",
+        "s": "BR"
+    }, {
+        "c": "Cambodia",
+        "s": "KH"
+    }, {
+        "c": "Canada",
+        "s": "CA"
+    }, {
+        "c": "Chile",
+        "s": "CL"
+    }, {
+        "c": "China",
+        "s": "CN"
+    }, {
+        "c": "Cuba",
+        "s": "CU"
+    }, {
+        "c": "Denmark",
+        "s": "DK"
+    }, {
+        "c": "Ethiopia",
+        "s": "ET"
+    }, {
+        "c": "Germany",
+        "s": "DE"
+    }, {
+        "c": "India",
+        "s": "IN"
+    }, {
+        "c": "Indonesia",
+        "s": "ID"
+    }, {
+        "c": "Japan",
+        "s": "JP"
+    }, {
+        "c": "Jordan",
+        "s": "JO"
+    }, {
+        "c": "Mexico",
+        "s": "MX"
+    }, {
+        "c": "Netherlands",
+        "s": "NL"
+    }, {
+        "c": "Nigeria",
+        "s": "NG"
+    }, {
+        "c": "Pakistan",
+        "s": "PK"
+    }, {
+        "c": "Peru",
+        "s": "PE"
+    }, {
+        "c": "Philippines",
+        "s": "PH"
+    }, {
+        "c": "Spain",
+        "s": "ES"
+    }, {
+        "c": "Turkey",
+        "s": "TR"
+    }, {
+        "c": "United Kingdom",
+        "s": "GB"
+    }, {
+        "c": "United States",
+        "s": "US"
+    }, {
+        "c": "Vietnam",
+        "s": "VN"
+    }],
+    provinces: {
+        "US": [{
+            "sp": "AL",
+            "p": "Alabama"
+        }, {
+            "sp": "AK",
+            "p": "Alaska"
+        }, {
+            "sp": "AZ",
+            "p": "Arizona"
+        }, {
+            "sp": "AR",
+            "p": "Arkansas"
+        }, {
+            "sp": "CA",
+            "p": "California"
+        }, {
+            "sp": "CO",
+            "p": "Colorado"
+        }, {
+            "sp": "CT",
+            "p": "Connecticut"
+        }, {
+            "sp": "DC",
+            "p": "District of Columbia"
+        }, {
+            "sp": "DE",
+            "p": "Delaware"
+        }, {
+            "sp": "FL",
+            "p": "Florida"
+        }, {
+            "sp": "GA",
+            "p": "Georgia"
+        }, {
+            "sp": "HI",
+            "p": "Hawaii"
+        }, {
+            "sp": "ID",
+            "p": "Idaho"
+        }, {
+            "sp": "IL",
+            "p": "Illinois"
+        }, {
+            "sp": "IN",
+            "p": "Indiana"
+        }, {
+            "sp": "IA",
+            "p": "Iowa"
+        }, {
+            "sp": "KS",
+            "p": "Kansas"
+        }, {
+            "sp": "KY",
+            "p": "Kentucky"
+        }, {
+            "sp": "LA",
+            "p": "Louisiana"
+        }, {
+            "sp": "ME",
+            "p": "Maine"
+        }, {
+            "sp": "MD",
+            "p": "Maryland"
+        }, {
+            "sp": "MA",
+            "p": "Massachusetts"
+        }, {
+            "sp": "MI",
+            "p": "Michigan"
+        }, {
+            "sp": "MN",
+            "p": "Minnesota"
+        }, {
+            "sp": "MS",
+            "p": "Mississippi"
+        }, {
+            "sp": "MO",
+            "p": "Missouri"
+        }, {
+            "sp": "MT",
+            "p": "Montana"
+        }, {
+            "sp": "NE",
+            "p": "Nebraska"
+        }, {
+            "sp": "NV",
+            "p": "Nevada"
+        }, {
+            "sp": "NH",
+            "p": "New Hampshire"
+        }, {
+            "sp": "NJ",
+            "p": "New Jersey"
+        }, {
+            "sp": "NM",
+            "p": "New Mexico"
+        }, {
+            "sp": "NY",
+            "p": "New York"
+        }, {
+            "sp": "NC",
+            "p": "North Carolina"
+        }, {
+            "sp": "ND",
+            "p": "North Dakota"
+        }, {
+            "sp": "OH",
+            "p": "Ohio"
+        }, {
+            "sp": "OK",
+            "p": "Oklahoma"
+        }, {
+            "sp": "OR",
+            "p": "Oregon"
+        }, {
+            "sp": "PA",
+            "p": "Pennsylvania"
+        }, {
+            "sp": "RI",
+            "p": "Rhode Island"
+        }, {
+            "sp": "SC",
+            "p": "South Carolina"
+        }, {
+            "sp": "SD",
+            "p": "South Dakota"
+        }, {
+            "sp": "TN",
+            "p": "Tennessee"
+        }, {
+            "sp": "TX",
+            "p": "Texas"
+        }, {
+            "sp": "UT",
+            "p": "Utah"
+        }, {
+            "sp": "VT",
+            "p": "Vermont"
+        }, {
+            "sp": "VA",
+            "p": "Virginia"
+        }, {
+            "sp": "WA",
+            "p": "Washington"
+        }, {
+            "sp": "WV",
+            "p": "West Virginia"
+        }, {
+            "sp": "WI",
+            "p": "Wisconsin"
+        }, {
+            "sp": "WY",
+            "p": "Wyoming"
+        }, {
+            "sp": "AS",
+            "p": "American Samoa"
+        }, {
+            "sp": "GU",
+            "p": "Guam"
+        }, {
+            "sp": "MP",
+            "p": "Northern Mariana Islands"
+        }, {
+            "sp": "PR",
+            "p": "Puerto Rico"
+        }, {
+            "sp": "UM",
+            "p": "United States Minor Outlying Islands"
+        }, {
+            "sp": "VI",
+            "p": "Virgin Islands"
+        }],
+        "CA": [{
+            "sp": "AB",
+            "p": "Alberta"
+        }, {
+            "sp": "BC",
+            "p": "British Columbia"
+        }, {
+            "sp": "MB",
+            "p": "Manitoba"
+        }, {
+            "sp": "NB",
+            "p": "New Brunswick"
+        }, {
+            "sp": "NL",
+            "p": "Newfoundland and Labrador"
+            "alt": ["Newfoundland", "Labrador"]
+        }, {
+            "sp": "NS",
+            "p": "Nova Scotia"
+        }, {
+            "sp": "NU",
+            "p": "Nunavut"
+        }, {
+            "sp": "NT",
+            "p": "Northwest Territories"
+        }, {
+            "sp": "ON",
+            "p": "Ontario"
+        }, {
+            "sp": "PE",
+            "p": "Prince Edward Island"
+        }, {
+            "sp": "QC",
+            "p": "Quebec"
+        }, {
+            "sp": "SK",
+            "p": "Saskatchewan"
+        }, {
+            "sp": "YT",
+            "p": "Yukon"
+        }],
+        "AU": [{
+            "p": "Ashmore and Cartier Islands"
+        }, {
+            "p": "Australian Antarctic Territory"
+        }, {
+            "sp": "ACT",
+            "p": "Australian Capital Territory"
+        }, {
+            "sp": "CX",
+            "p": "Christmas Island"
+        }, {
+            "sp": "CC",
+            "p": "Cocos Islands",
+            "alt": ["Keeling Islands"]
+        }, {
+            "p": "Coral Sea Islands"
+        }, {
+            "sp": "HM",
+            "p": "Heard Island and McDonald Islands"
+        }, {
+            "sp": "JBT",
+            "p": "Jervis Bay Territory"
+        }, {
+            "sp": "NSW",
+            "p": "New South Wales"
+        }, {
+            "sp": "NF",
+            "p": "Norfolk Island"
+        }, {
+            "sp": "NT",
+            "p": "Northern Territory"
+        }, {
+            "sp": "QLD",
+            "p": "Queensland"
+        }, {
+            "sp": "SA",
+            "p": "South Australia"
+        }, {
+            "sp": "TAS",
+            "p": "Tasmania"
+        }, {
+            "sp": "VIC",
+            "p": "Victoria"
+        }, {
+            "sp": "WA",
+            "p": "Western Australia"
+        }],
+        "MX": [{
+            "p": "Aguascalientes",
+            "sp": "AG",
+            "alt": ["AGS"]
+        }, {
+            "p": "Baja California",
+            "sp": "BC",
+            "alt": ["BCN"]
+        }, {
+            "p": "Baja California Sur",
+            "sp": "BS",
+            "alt": ["BCS"]
+        }, {
+            "p": "Campeche",
+            "sp": "CM",
+            "alt": ["Camp", "CAM"]
+        }, {
+            "p": "Chiapas",
+            "sp": "CS",
+            "alt": ["Chis", "CHP"]
+        }, {
+            "p": "Chihuahua",
+            "sp": "CH",
+            "alt": ["Chih", "CHH"]
+        }, {
+            "p": "Coahuila",
+            "sp": "MX",
+            "alt": ["Coah", "COA"]
+        }, {
+            "p": "Colima",
+            "sp": "CL",
+            "alt": ["COL"]
+        }, {
+            "p": "Federal District",
+            "sp": "DF",
+            "alt": ["DIF"]
+        }, {
+            "p": "Durango",
+            "sp": "DG",
+            "alt": ["Dgo", "DUR"]
+        }, {
+            "p": "Guanajuato",
+            "sp": "GT",
+            "alt": ["Gto", "GUA"]
+        }, {
+            "p": "Guerrero",
+            "sp": "GR",
+            "alt": ["Gro", "GRO"]
+        }, {
+            "p": "Hidalgo",
+            "sp": "HG",
+            "alt": ["Hgo", "HID"]
+        }, {
+            "p": "Jalisco",
+            "sp": "JA",
+            "alt": ["Jal", "JAL"]
+        }, {
+            "p": "Mexico",
+            "sp": "ME",
+            "alt": ["Edomex", "MEX"]
+        }, {
+            "p": "Michoacán",
+            "sp": "MI",
+            "alt": ["Mich", "MIC"]
+        }, {
+            "p": "Morelos",
+            "sp": "MO",
+            "alt": ["Mor", "MOR"]
+        }, {
+            "p": "Nayarit",
+            "sp": "NA",
+            "alt": ["Nay", "NAY"]
+        }, {
+            "p": "Nuevo León",
+            "sp": "NL",
+            "alt": ["NLE"]
+        }, {
+            "p": "Oaxaca",
+            "sp": "OA",
+            "alt": ["Oax", "OAX"]
+        }, {
+            "p": "Puebla",
+            "sp": "PU",
+            "alt": ["Pue", "PUE"]
+        }, {
+            "p": "Querétaro",
+            "sp": "QE",
+            "alt": ["Qro", "QUE"]
+        }, {
+            "p": "Quintana Roo",
+            "sp": "QR",
+            "alt": ["Q Roo", "ROO"]
+        }, {
+            "p": "San Luis Potosí",
+            "sp": "SL",
+            "alt": ["SLP"]
+        }, {
+            "p": "Sinaloa",
+            "sp": "SI",
+            "alt": ["SIN"]
+        }, {
+            "p": "Sonora",
+            "sp": "SO",
+            "alt": ["SON"]
+        }, {
+            "p": "Tabasco",
+            "sp": "TB",
+            "alt": ["TAB"]
+        }, {
+            "p": "Tamaulipas",
+            "sp": "TM",
+            "alt": ["Tamps", "TAM"]
+        }, {
+            "p": "Tlaxcala",
+            "sp": "TL",
+            "alt": ["Tlax", "TLA"]
+        }, {
+            "p": "Veracruz",
+            "sp": "VE",
+            "alt": ["VER"]
+        }, {
+            "p": "Yucatán",
+            "sp": "YU",
+            "alt": ["YUC"]
+        }, {
+            "p": "Zacatecas",
+            "sp": "ZA",
+            "alt": ["ZAC"]
+        }],
+        "CN": [{
+            "p": "重庆",
+            "sp": "渝"
+        }, {
+            "p": "黑龙江",
+            "sp": "黑"
+        }, {
+            "p": "吉林",
+            "sp": "吉"
+        }, {
+            "p": "海南",
+            "sp": "琼"
+        }, {
+            "p": "北京",
+            "sp": "京"
+        }, {
+            "p": "辽宁",
+            "sp": "辽"
+        }, {
+            "p": "内蒙古",
+            "sp": "蒙"
+        }, {
+            "p": "西藏",
+            "sp": "藏"
+        }, {
+            "p": "青海",
+            "sp": "青"
+        }, {
+            "p": "宁夏",
+            "sp": "宁"
+        }, {
+            "p": "新疆",
+            "sp": "新"
+        }, {
+            "p": "甘肃",
+            "sp": "甘"
+        }, {
+            "p": "河北",
+            "sp": "冀"
+        }, {
+            "p": "河南",
+            "sp": "豫"
+        }, {
+            "p": "湖北",
+            "sp": "鄂"
+        }, {
+            "p": "湖南",
+            "sp": "湘"
+        }, {
+            "p": "山东",
+            "sp": "鲁"
+        }, {
+            "p": "江苏",
+            "sp": "苏"
+        }, {
+            "p": "安徽",
+            "sp": "皖"
+        }, {
+            "p": "山西",
+            "sp": "晋"
+        }, {
+            "p": "陕西",
+            "sp": "陕"
+        }, {
+            "p": "四川",
+            "sp": "川"
+        }, {
+            "p": "云南",
+            "sp": "滇"
+        }, {
+            "p": "贵州",
+            "sp": "黔"
+        }, {
+            "p": "浙江",
+            "sp": "浙"
+        }, {
+            "p": "福建",
+            "sp": "闽"
+        }, {
+            "p": "广西",
+            "sp": "桂"
+        }, {
+            "p": "上海",
+            "sp": "沪"
+        }, {
+            "p": "天津",
+            "sp": "津"
+        }, {
+            "p": "香港",
+            "sp": "港"
+        }, {
+            "p": "澳门",
+            "sp": "澳"
+        }, {
+            "p": "台湾",
+            "sp": "台"
+        }, {
+            "p": "江西",
+            "sp": "赣"
+        }, {
+            "p": "广东",
+            "sp": "粤"
+        }],
+        "GB": [{
+            "p": "Avon"
+            "region": "England"
+        }, {
+            "p": "Bedfordshire"
+            "region": "England"
+        }, {
+            "p": "Berkshire"
+            "region": "England"
+        }, {
+            "p": "Borders"
+            "region": "England"
+        }, {
+            "p": "Bristol"
+            "region": "England"
+        }, {
+            "p": "Buckinghamshire"
+            "region": "England"
+        }, {
+            "p": "Cambridgeshire"
+            "region": "England"
+        }, {
+            "p": "Channel Islands"
+            "region": "England"
+        }, {
+            "p": "Cheshire"
+            "region": "England"
+        }, {
+            "p": "Cleveland"
+            "region": "England"
+        }, {
+            "p": "Cornwall"
+            "region": "England"
+        }, {
+            "p": "Cumbria"
+            "region": "England"
+        }, {
+            "p": "Derbyshire"
+            "region": "England"
+        }, {
+            "p": "Devon"
+            "region": "England"
+        }, {
+            "p": "Dorset"
+            "region": "England"
+        }, {
+            "p": "Durham"
+            "region": "England"
+        }, {
+            "p": "East Riding of Yorkshire"
+            "region": "England"
+        }, {
+            "p": "East Sussex"
+            "region": "England"
+        }, {
+            "p": "Essex"
+            "region": "England"
+        }, {
+            "p": "Gloucestershire"
+            "region": "England"
+        }, {
+            "p": "Greater Manchester"
+            "region": "England"
+        }, {
+            "p": "Hampshire"
+            "region": "England"
+        }, {
+            "p": "Herefordshire"
+            "region": "England"
+        }, {
+            "p": "Hertfordshire"
+            "region": "England"
+        }, {
+            "p": "Humberside"
+            "region": "England"
+        }, {
+            "p": "Isle of Man"
+            "region": "England"
+        }, {
+            "p": "Isle of Wight"
+            "region": "England"
+        }, {
+            "p": "Isles of Scilly"
+            "region": "England"
+        }, {
+            "p": "Kent"
+            "region": "England"
+        }, {
+            "p": "Lancashire"
+            "region": "England"
+        }, {
+            "p": "Leicestershire"
+            "region": "England"
+        }, {
+            "p": "Lincolnshire"
+            "region": "England"
+        }, {
+            "p": "London"
+            "region": "England"
+        }, {
+            "p": "Merseyside"
+            "region": "England"
+        }, {
+            "p": "Middlesex"
+            "region": "England"
+        }, {
+            "p": "Norfolk"
+            "region": "England"
+        }, {
+            "p": "North Yorkshire"
+            "region": "England"
+        }, {
+            "p": "Northamptonshire"
+            "region": "England"
+        }, {
+            "p": "Northumberland"
+            "region": "England"
+        }, {
+            "p": "Nottinghamshire"
+            "region": "England"
+        }, {
+            "p": "Oxfordshire"
+            "region": "England"
+        }, {
+            "p": "Rutland"
+            "region": "England"
+        }, {
+            "p": "Shropshire"
+            "region": "England"
+        }, {
+            "p": "Somerset"
+            "region": "England"
+        }, {
+            "p": "South Yorkshire"
+            "region": "England"
+        }, {
+            "p": "Staffordshire"
+            "region": "England"
+        }, {
+            "p": "Suffolk"
+            "region": "England"
+        }, {
+            "p": "Surrey"
+            "region": "England"
+        }, {
+            "p": "Tyne and Wear"
+            "region": "England"
+        }, {
+            "p": "Warwickshire"
+            "region": "England"
+        }, {
+            "p": "West Midlands"
+            "region": "England"
+        }, {
+            "p": "West Sussex"
+            "region": "England"
+        }, {
+            "p": "West Yorkshire"
+            "region": "England"
+        }, {
+            "p": "Wiltshire"
+            "region": "England"
+        }, {
+            "p": "Worcestershire"
+            "region": "England"
+        }, {
+            "p": "Antrim"
+            "region": "Northern Ireland"
+        }, {
+            "p": "Down"
+            "region": "Northern Ireland"
+        }, {
+            "p": "Fermanagh"
+            "region": "Northern Ireland"
+        }, {
+            "p": "Londonderry"
+            "region": "Northern Ireland"
+        }, {
+            "p": "Tyrone"
+            "region": "Northern Ireland"
+        }, {
+            "p": "Aberdeen City"
+            "region": "Scotland"
+        }, {
+            "p": "Aberdeenshire"
+            "region": "Scotland"
+        }, {
+            "p": "Angus"
+            "region": "Scotland"
+        }, {
+            "p": "Argyll and Bute"
+            "region": "Scotland"
+        }, {
+            "p": "Armagh"
+            "region": "Scotland"
+        }, {
+            "p": "Carmarthenshire"
+            "region": "Scotland"
+        }, {
+            "p": "Clackmannan"
+            "region": "Scotland"
+        }, {
+            "p": "Dumfries and Galloway"
+            "region": "Scotland"
+        }, {
+            "p": "East Ayrshire"
+            "region": "Scotland"
+        }, {
+            "p": "East Dunbartonshire"
+            "region": "Scotland"
+        }, {
+            "p": "East Lothian"
+            "region": "Scotland"
+        }, {
+            "p": "East Renfrewshire"
+            "region": "Scotland"
+        }, {
+            "p": "Edinburgh City"
+            "region": "Scotland"
+        }, {
+            "p": "Falkirk"
+            "region": "Scotland"
+        }, {
+            "p": "Fife"
+            "region": "Scotland"
+        }, {
+            "p": "Glasgow"
+            "region": "Scotland"
+        }, {
+            "p": "Highland"
+            "region": "Scotland"
+        }, {
+            "p": "Inverclyde"
+            "region": "Scotland"
+        }, {
+            "p": "Midlothian"
+            "region": "Scotland"
+        }, {
+            "p": "Moray"
+            "region": "Scotland"
+        }, {
+            "p": "North Ayrshire"
+            "region": "Scotland"
+        }, {
+            "p": "North Lanarkshire"
+            "region": "Scotland"
+        }, {
+            "p": "Orkney"
+            "region": "Scotland"
+        }, {
+            "p": "Perthshire and Kinross"
+            "region": "Scotland"
+        }, {
+            "p": "Renfrewshire"
+            "region": "Scotland"
+        }, {
+            "p": "Roxburghshire"
+            "region": "Scotland"
+        }, {
+            "p": "Shetland"
+            "region": "Scotland"
+        }, {
+            "p": "South Ayrshire"
+            "region": "Scotland"
+        }, {
+            "p": "South Lanarkshire"
+            "region": "Scotland"
+        }, {
+            "p": "Stirling"
+            "region": "Scotland"
+        }, {
+            "p": "West Dunbartonshire"
+            "region": "Scotland"
+        }, {
+            "p": "West Lothian"
+            "region": "Scotland"
+        }, {
+            "p": "Western Isles"
+            "region": "Scotland"
+        }, {
+            "p": "Blaenau Gwent"
+            "region": "Wales"
+        }, {
+            "p": "Bridgend"
+            "region": "Wales"
+        }, {
+            "p": "Caerphilly"
+            "region": "Wales"
+        }, {
+            "p": "Cardiff"
+            "region": "Wales"
+        }, {
+            "p": "Ceredigion"
+            "region": "Wales"
+        }, {
+            "p": "Conwy"
+            "region": "Wales"
+        }, {
+            "p": "Denbighshire"
+            "region": "Wales"
+        }, {
+            "p": "Flintshire"
+            "region": "Wales"
+        }, {
+            "p": "Gwynedd"
+            "region": "Wales"
+        }, {
+            "p": "Isle of Anglesey"
+            "region": "Wales"
+        }, {
+            "p": "Merthyr Tydfil"
+            "region": "Wales"
+        }, {
+            "p": "Monmouthshire"
+            "region": "Wales"
+        }, {
+            "p": "Neath Port Talbot"
+            "region": "Wales"
+        }, {
+            "p": "Newport"
+            "region": "Wales"
+        }, {
+            "p": "Pembrokeshire"
+            "region": "Wales"
+        }, {
+            "p": "Powys"
+            "region": "Wales"
+        }, {
+            "p": "Rhondda Cynon Taff"
+            "region": "Wales"
+        }, {
+            "p": "Swansea"
+            "region": "Wales"
+        }, {
+            "p": "The Vale of Glamorgan"
+            "region": "Wales"
+        }, {
+            "p": "Torfaen"
+            "region": "Wales"
+        }, {
+            "p": "Wrexham"
+            "region": "Wales"
+        }],
+        "DE": [{
+            "sp": "BW",
+            "p": "Baden-Württemberg"
+        }, {
+            "sp": "BY",
+            "p": "Bayern"
+        }, {
+            "sp": "BE",
+            "p": "Berlin"
+        }, {
+            "sp": "BB",
+            "p": "Brandenburg"
+        }, {
+            "sp": "HB",
+            "p": "Bremen"
+        }, {
+            "sp": "HH",
+            "p": "Hamburg"
+        }, {
+            "sp": "HE",
+            "p": "Hessen"
+        }, {
+            "sp": "MV",
+            "p": "Mecklenburg-Vorpommern"
+        }, {
+            "sp": "NI",
+            "p": "Niedersachsen"
+        }, {
+            "sp": "NW",
+            "p": "Nordrhein-Westfalen"
+        }, {
+            "sp": "RP",
+            "p": "Rheinland-Pfalz"
+        }, {
+            "sp": "SL",
+            "p": "Saarland"
+        }, {
+            "sp": "SN",
+            "p": "Sachsen"
+        }, {
+            "sp": "ST",
+            "p": "Sachsen-Anhalt"
+        }, {
+            "sp": "SH",
+            "p": "Schleswig-Holstein"
+        }, {
+            "sp": "TH",
+            "p": "Thüringen"
+        }],
+        "NL": [{
+            "sp": "DR",
+            "p": "Drenthe"
+        }, {
+            "sp": "FL",
+            "p": "Flevoland"
+        }, {
+            "sp": "FR",
+            "p": "Friesland"
+        }, {
+            "sp": "GD",
+            "p": "Gelderland"
+        }, {
+            "sp": "GR",
+            "p": "Groningen"
+        }, {
+            "sp": "LB",
+            "p": "Limburg"
+        }, {
+            "sp": "NB",
+            "p": "Noord-Brabant"
+        }, {
+            "sp": "NH",
+            "p": "Noord-Holland"
+        }, {
+            "sp": "OV",
+            "p": "Overijssel"
+        }, {
+            "sp": "UT",
+            "p": "Utrecht"
+        }, {
+            "sp": "ZH",
+            "p": "Zuid-Holland"
+        }, {
+            "sp": "ZL",
+            "p": "Zeeland"
+        }, {
+            "sp": "AW",
+            "p": "Aruba"
+        }, {
+            "sp": "BQ",
+            "p": "Bonaire"
+        }, {
+            "sp": "BQ2",
+            "p": "Saba"
+        }, {
+            "sp": "BQ3",
+            "p": "Sint Eustatius"
+        }, {
+            "sp": "CW",
+            "p": "Curaçao"
+        }, {
+            "sp": "SX",
+            "p": "Sint Maarten"
+        }],
+        "BE": [{
+            "sp": "ANT",
+            "p": "Antwerpen"
+        }, {
+            "sp": "HAI",
+            "p": "Henegouwen"
+            "alt": ["Hainaut"]
+        }, {
+            "sp": "LIE",
+            "p": "Luik"
+            "alt": ["Liège"]
+        }, {
+            "sp": "LIM",
+            "p": "Limburg"
+        }, {
+            "sp": "LUX",
+            "p": "Luxemburg"
+        }, {
+            "sp": "NAM",
+            "p": "Namen"
+        }, {
+            "sp": "OVL",
+            "p": "Oost-Vlaanderen"
+        }, {
+            "sp": "VBR",
+            "p": "Vlaams-Brabant"
+        }, {
+            "sp": "WBR",
+            "p": "Waals-Brabant"
+        }, {
+            "sp": "WVL",
+            "p": "West-Vlaanderen"
+        }],
+        "DK": [{
+            "p": "Hovedstaden"
+        }, {
+            "p": "Midtjylland"
+        }, {
+            "p": "Nordjylland"
+        }, {
+            "p": "Sjælland"
+        }, {
+            "p": "Syddanmark"
+        }],
+        "TR": [{
+            "p": "Adana"
+        }, {
+            "p": "Adıyaman"
+        }, {
+            "p": "Afyonkarahisar"
+        }, {
+            "p": "Ağrı"
+        }, {
+            "p": "Amasya"
+        }, {
+            "p": "Ankara"
+        }, {
+            "p": "Antalya"
+        }, {
+            "p": "Artvin"
+        }, {
+            "p": "Aydın"
+        }, {
+            "p": "Balıkesir"
+        }, {
+            "p": "Bilecik"
+        }, {
+            "p": "Bingöl"
+        }, {
+            "p": "Bitlis"
+        }, {
+            "p": "Bolu"
+        }, {
+            "p": "Burdur"
+        }, {
+            "p": "Bursa"
+        }, {
+            "p": "Çanakkale"
+        }, {
+            "p": "Çankırı"
+        }, {
+            "p": "Çorum"
+        }, {
+            "p": "Denizli"
+        }, {
+            "p": "Diyarbakır"
+        }, {
+            "p": "Edirne"
+        }, {
+            "p": "Elazığ"
+        }, {
+            "p": "Erzincan"
+        }, {
+            "p": "Erzurum"
+        }, {
+            "p": "Eskişehir"
+        }, {
+            "p": "Gaziantep"
+        }, {
+            "p": "Giresun"
+        }, {
+            "p": "Gümüşhane"
+        }, {
+            "p": "Hakkâri"
+        }, {
+            "p": "Hatay"
+        }, {
+            "p": "Isparta"
+        }, {
+            "p": "Mersin"
+        }, {
+            "p": "Istanbul"
+        }, {
+            "p": "İzmir"
+        }, {
+            "p": "Kars"
+        }, {
+            "p": "Kastamonu"
+        }, {
+            "p": "Kayseri"
+        }, {
+            "p": "Kırklareli"
+        }, {
+            "p": "Kırşehir"
+        }, {
+            "p": "Kocaeli"
+        }, {
+            "p": "Konya"
+        }, {
+            "p": "Kütahya"
+        }, {
+            "p": "Malatya"
+        }, {
+            "p": "Manisa"
+        }, {
+            "p": "Kahramanmaraş"
+        }, {
+            "p": "Mardin"
+        }, {
+            "p": "Muğla"
+        }, {
+            "p": "Muş"
+        }, {
+            "p": "Nevşehir"
+        }, {
+            "p": "Niğde"
+        }, {
+            "p": "Ordu"
+        }, {
+            "p": "Rize"
+        }, {
+            "p": "Sakarya"
+        }, {
+            "p": "Samsun"
+        }, {
+            "p": "Siirt"
+        }, {
+            "p": "Sinop"
+        }, {
+            "p": "Sivas"
+        }, {
+            "p": "Tekirdağ"
+        }, {
+            "p": "Tokat"
+        }, {
+            "p": "Trabzon"
+        }, {
+            "p": "Tunceli"
+        }, {
+            "p": "Şanlıurfa"
+        }, {
+            "p": "Uşak"
+        }, {
+            "p": "Van"
+        }, {
+            "p": "Yozgat"
+        }, {
+            "p": "Zonguldak"
+        }, {
+            "p": "Aksaray"
+        }, {
+            "p": "Bayburt"
+        }, {
+            "p": "Karaman"
+        }, {
+            "p": "Kırıkkale"
+        }, {
+            "p": "Batman"
+        }, {
+            "p": "Şırnak"
+        }, {
+            "p": "Bartın"
+        }, {
+            "p": "Ardahan"
+        }, {
+            "p": "Iğdır"
+        }, {
+            "p": "Yalova"
+        }, {
+            "p": "Karabük"
+        }, {
+            "p": "Kilis"
+        }, {
+            "p": "Osmaniye"
+        }, {
+            "p": "Düzce"
+        }],
+        "ID": [{
+            "sp": "ID-AC",
+            "p": "Special Region of Aceh"
+        }, {
+            "sp": "ID-BA",
+            "p": "Bali"
+        }, {
+            "sp": "ID-BB",
+            "p": "Bangka–Belitung Islands"
+        }, {
+            "sp": "ID-BT",
+            "p": "Banten"
+        }, {
+            "sp": "ID-BE",
+            "p": "Bengkulu"
+        }, {
+            "sp": "ID-JT",
+            "p": "Central Java"
+        }, {
+            "sp": "ID-KT",
+            "p": "Central Kalimantan"
+        }, {
+            "sp": "ID-ST",
+            "p": "Central Sulawesi"
+        }, {
+            "sp": "ID-JI",
+            "p": "East Java"
+        }, {
+            "sp": "ID-KI",
+            "p": "East Kalimantan"
+        }, {
+            "sp": "ID-NT",
+            "p": "East Nusa Tenggara"
+        }, {
+            "sp": "ID-GO",
+            "p": "Gorontalo"
+        }, {
+            "sp": "ID-JK",
+            "p": "Jakarta Special Capital Region"
+        }, {
+            "sp": "ID-JA",
+            "p": "Jambi"
+        }, {
+            "sp": "ID-LA",
+            "p": "Lampung"
+        }, {
+            "sp": "ID-MA",
+            "p": "Maluku"
+        }, {
+            "sp": "ID-KU",
+            "p": "North Kalimantan"
+        }, {
+            "sp": "ID-MU",
+            "p": "North Maluku"
+        }, {
+            "sp": "ID-SA",
+            "p": "North Sulawesi"
+        }, {
+            "sp": "ID-SU",
+            "p": "North Sumatra"
+        }, {
+            "sp": "ID-PA",
+            "p": "Special Region of Papua"
+        }, {
+            "sp": "ID-RI",
+            "p": "Riau"
+        }, {
+            "sp": "ID-KR",
+            "p": "Riau Islands"
+        }, {
+            "sp": "ID-SG",
+            "p": "Southeast Sulawesi"
+        }, {
+            "sp": "ID-KS",
+            "p": "South Kalimantan"
+        }, {
+            "sp": "ID-SN",
+            "p": "South Sulawesi"
+        }, {
+            "sp": "ID-SS",
+            "p": "South Sumatra"
+        }, {
+            "sp": "ID-JB",
+            "p": "West Java"
+        }, {
+            "sp": "ID-KB",
+            "p": "West Kalimantan"
+        }, {
+            "sp": "ID-NB",
+            "p": "West Nusa Tenggara"
+        }, {
+            "sp": "ID-PB",
+            "p": "Special Region of West Papua"
+        }, {
+            "sp": "ID-SR",
+            "p": "West Sulawesi"
+        }, {
+            "sp": "ID-SB",
+            "p": "West Sumatra"
+        }, {
+            "sp": "ID-YO",
+            "p": "Special Region of Yogyakarta"
+        }],
+        "JO": [{
+            "p": "Irbid"
+        }, {
+            "p": "Ajloun"
+        }, {
+            "p": "Jerash"
+        }, {
+            "p": "Mafraq"
+        }, {
+            "p": "Balqa"
+        }, {
+            "p": "Amman"
+        }, {
+            "p": "Zarqa"
+        }, {
+            "p": "Madaba"
+        }, {
+            "p": "Karak"
+        }, {
+            "p": "Tafilah"
+        }, {
+            "p": "Ma'an"
+        }, {
+            "p": "Aqaba"
+        }],
+        "IN": [{
+            "sp": "AP",
+            "p": "Andhra Pradesh"
+        }, {
+            "sp": "AR",
+            "p": "Arunachal Pradesh"
+        }, {
+            "sp": "AS",
+            "p": "Assam"
+        }, {
+            "sp": "BR",
+            "p": "Bihar"
+        }, {
+            "sp": "CT",
+            "p": "Chhattisgarh"
+        }, {
+            "sp": "GA",
+            "p": "Goa"
+        }, {
+            "sp": "GJ",
+            "p": "Gujarat"
+        }, {
+            "sp": "HR",
+            "p": "Haryana"
+        }, {
+            "sp": "HP",
+            "p": "Himachal Pradesh"
+        }, {
+            "sp": "JK",
+            "p": "Jammu and Kashmir"
+        }, {
+            "sp": "JH",
+            "p": "Jharkhand"
+        }, {
+            "sp": "KA",
+            "p": "Karnataka"
+        }, {
+            "sp": "KL",
+            "p": "Kerala"
+        }, {
+            "sp": "MP",
+            "p": "Madhya Pradesh"
+        }, {
+            "sp": "MH",
+            "p": "Maharashtra"
+        }, {
+            "sp": "MN",
+            "p": "Manipur"
+        }, {
+            "sp": "ML",
+            "p": "Meghalaya"
+        }, {
+            "sp": "MZ",
+            "p": "Mizoram"
+        }, {
+            "sp": "NL",
+            "p": "Nagaland"
+        }, {
+            "sp": "OR",
+            "p": "Odisha"
+        }, {
+            "sp": "PB",
+            "p": "Punjab"
+        }, {
+            "sp": "RJ",
+            "p": "Rajasthan"
+        }, {
+            "sp": "SK",
+            "p": "Sikkim"
+        }, {
+            "sp": "TN",
+            "p": "Tamil Nadu"
+        }, {
+            "sp": "TG",
+            "p": "Telangana"
+        }, {
+            "sp": "TR",
+            "p": "Tripura"
+        }, {
+            "sp": "UP",
+            "p": "Uttar Pradesh"
+        }, {
+            "sp": "UT",
+            "p": "Uttarakhand"
+        }, {
+            "sp": "WB",
+            "p": "West Bengal"
+        }, {
+            "sp": "AN",
+            "p": "Andaman and Nicobar Islands"
+        }, {
+            "sp": "CH",
+            "p": "Chandigarh"
+        }, {
+            "sp": "DN",
+            "p": "Dadra and Nagar Haveli"
+        }, {
+            "sp": "DD",
+            "p": "Daman and Diu"
+        }, {
+            "sp": "LD",
+            "p": "Lakshadweep"
+        }, {
+            "sp": "DL",
+            "p": "National Capital Territory of Delhi"
+        }, {
+            "sp": "PY",
+            "p": "Puducherry"
+        }],
+        "KH": [{
+            "p": "ភ្នំពេញ",
+            "english": "Phnom Penh Municipality"
+        }, {
+            "p": "បន្ទាយមានជ័យ",
+            "english": "Banteay Meanchey"
+        }, {
+            "p": "បាត់ដំបង",
+            "english": "Battambang"
+        }, {
+            "p": "កំពង់ចាម",
+            "english": "Kampong Cham"
+        }, {
+            "p": "កំពង់ឆ្នាំង",
+            "english": "Kampong Chhnang"
+        }, {
+            "p": "កំពង់ស្ពឺ",
+            "english": "Kampong Speu"
+        }, {
+            "p": "កំពង់ធំ",
+            "english": "Kampong Thom"
+        }, {
+            "p": "កំពត",
+            "english": "Kampot"
+        }, {
+            "p": "កណ្តាល",
+            "english": "Kandal"
+        }, {
+            "p": "កោះកុង",
+            "english": "Koh Kong"
+        }, {
+            "p": "កែប",
+            "english": "Kep"
+        }, {
+            "p": "ក្រចេះ",
+            "english": "Kratié"
+        }, {
+            "p": "មណ្ឌលគីរី",
+            "english": "Mondulkiri"
+        }, {
+            "p": "ឧត្តរមានជ័យ",
+            "english": "Oddar Meanchey"
+        }, {
+            "p": "បៃលិន",
+            "english": "Pailin"
+        }, {
+            "p": "ព្រះសីហនុ",
+            "english": "Preah Sihanouk"
+        }, {
+            "p": "ព្រះវិហារ",
+            "english": "Preah Vihear"
+        }, {
+            "p": "ពោធិ៍សាត់",
+            "english": "Pursat"
+        }, {
+            "p": "ព្រៃវែង",
+            "english": "Prey Veng"
+        }, {
+            "p": "រតនគីរី",
+            "english": "Ratanakiri"
+        }, {
+            "p": "សៀមរាប",
+            "english": "Siem Reap"
+        }, {
+            "p": "ស្ទឹងត្រែង",
+            "english": "Stung Treng"
+        }, {
+            "p": "ស្វាយរៀង",
+            "english": "Svay Rieng"
+        }, {
+            "p": "តាកែវ",
+            "english": "Takéo"
+        }, {
+            "p": "ត្បូងឃ្មុំ",
+            "english": "Tbong Khmum"
+        }],
+        "ET": [{
+            "p": "Addis Ababa"
+        }, {
+            "p": "Afar Region"
+        }, {
+            "p": "Amhara Region"
+        }, {
+            "p": "Benishangul-Gumuz"
+        }, {
+            "p": "Dire Dawa"
+        }, {
+            "p": "Gambela"
+        }, {
+            "p": "Harari"
+        }, {
+            "p": "Oromia"
+        }, {
+            "p": "Somali"
+        }, {
+            "p": "Southern Nations, Nationalities, and Peoples' Region"
+        }, {
+            "p": "Tigray Region"
+        }],
+        "PE": [{
+            "p": "Chachapoyas",
+            "region": "Amazonas"
+        }, {
+            "p": "Bagua",
+            "region": "Amazonas"
+        }, {
+            "p": "Bongará",
+            "region": "Amazonas"
+        }, {
+            "p": "Condorcanqui",
+            "region": "Amazonas"
+        }, {
+            "p": "Luya",
+            "region": "Amazonas"
+        }, {
+            "p": "Rodríguez de Mendoza",
+            "region": "Amazonas"
+        }, {
+            "p": "Utcubamba",
+            "region": "Amazonas"
+        }, {
+            "p": "Huaraz",
+            "region": "Ancash"
+        }, {
+            "p": "Aija",
+            "region": "Ancash"
+        }, {
+            "p": "Antonio Raymondi",
+            "region": "Ancash"
+        }, {
+            "p": "Asunción",
+            "region": "Ancash"
+        }, {
+            "p": "Bolognesi",
+            "region": "Ancash"
+        }, {
+            "p": "Carhuaz",
+            "region": "Ancash"
+        }, {
+            "p": "Carlos Fermín Fitzcarrald",
+            "region": "Ancash"
+        }, {
+            "p": "Casma",
+            "region": "Ancash"
+        }, {
+            "p": "Corongo",
+            "region": "Ancash"
+        }, {
+            "p": "Huari",
+            "region": "Ancash"
+        }, {
+            "p": "Huarmey",
+            "region": "Ancash"
+        }, {
+            "p": "Huaylas",
+            "region": "Ancash"
+        }, {
+            "p": "Mariscal Luzuriaga",
+            "region": "Ancash"
+        }, {
+            "p": "Ocros",
+            "region": "Ancash"
+        }, {
+            "p": "Pallasca",
+            "region": "Ancash"
+        }, {
+            "p": "Pomabamba",
+            "region": "Ancash"
+        }, {
+            "p": "Recuay",
+            "region": "Ancash"
+        }, {
+            "p": "Santa",
+            "region": "Ancash"
+        }, {
+            "p": "Sihuas",
+            "region": "Ancash"
+        }, {
+            "p": "Yungay",
+            "region": "Ancash"
+        }, {
+            "p": "Abancay",
+            "region": "Apurímac"
+        }, {
+            "p": "Andahuaylas",
+            "region": "Apurímac"
+        }, {
+            "p": "Antabamba",
+            "region": "Apurímac"
+        }, {
+            "p": "Aymaraes",
+            "region": "Apurímac"
+        }, {
+            "p": "Cotabambas",
+            "region": "Apurímac"
+        }, {
+            "p": "Chincheros",
+            "region": "Apurímac"
+        }, {
+            "p": "Grau",
+            "region": "Apurímac"
+        }, {
+            "p": "Arequipa",
+            "region": "Arequipa"
+        }, {
+            "p": "Camaná",
+            "region": "Arequipa"
+        }, {
+            "p": "Caravelí",
+            "region": "Arequipa"
+        }, {
+            "p": "Castilla",
+            "region": "Arequipa"
+        }, {
+            "p": "Caylloma",
+            "region": "Arequipa"
+        }, {
+            "p": "Condesuyos",
+            "region": "Arequipa"
+        }, {
+            "p": "Islay",
+            "region": "Arequipa"
+        }, {
+            "p": "La Unión",
+            "region": "Arequipa"
+        }, {
+            "p": "Huamanga",
+            "region": "Ayacucho"
+        }, {
+            "p": "Cangallo",
+            "region": "Ayacucho"
+        }, {
+            "p": "Huanca Sancos",
+            "region": "Ayacucho"
+        }, {
+            "p": "Huanta",
+            "region": "Ayacucho"
+        }, {
+            "p": "La Mar",
+            "region": "Ayacucho"
+        }, {
+            "p": "Lucanas",
+            "region": "Ayacucho"
+        }, {
+            "p": "Parinacochas",
+            "region": "Ayacucho"
+        }, {
+            "p": "Páucar del Sara Sara",
+            "region": "Ayacucho"
+        }, {
+            "p": "Sucre",
+            "region": "Ayacucho"
+        }, {
+            "p": "Víctor Fajardo",
+            "region": "Ayacucho"
+        }, {
+            "p": "Vilcas Huamán",
+            "region": "Ayacucho"
+        }, {
+            "p": "Cajamarca",
+            "region": "Cajamarca"
+        }, {
+            "p": "Cajabamba",
+            "region": "Cajamarca"
+        }, {
+            "p": "Celendín",
+            "region": "Cajamarca"
+        }, {
+            "p": "Chota",
+            "region": "Cajamarca"
+        }, {
+            "p": "Contumazá",
+            "region": "Cajamarca"
+        }, {
+            "p": "Cutervo",
+            "region": "Cajamarca"
+        }, {
+            "p": "Hualgayoc",
+            "region": "Cajamarca"
+        }, {
+            "p": "Jaén",
+            "region": "Cajamarca"
+        }, {
+            "p": "San Ignacio",
+            "region": "Cajamarca"
+        }, {
+            "p": "San Marcos",
+            "region": "Cajamarca"
+        }, {
+            "p": "San Miguel",
+            "region": "Cajamarca"
+        }, {
+            "p": "San Pablo",
+            "region": "Cajamarca"
+        }, {
+            "p": "Santa Cruz",
+            "region": "Cajamarca"
+        }, {
+            "p": "Callao",
+            "region": "Callao"
+        }, {
+            "p": "Cusco",
+            "region": "Cusco"
+        }, {
+            "p": "Acomayo",
+            "region": "Cusco"
+        }, {
+            "p": "Anta",
+            "region": "Cusco"
+        }, {
+            "p": "Calca",
+            "region": "Cusco"
+        }, {
+            "p": "Canas",
+            "region": "Cusco"
+        }, {
+            "p": "Canchis",
+            "region": "Cusco"
+        }, {
+            "p": "Chumbivilcas",
+            "region": "Cusco"
+        }, {
+            "p": "Espinar",
+            "region": "Cusco"
+        }, {
+            "p": "La Convención",
+            "region": "Cusco"
+        }, {
+            "p": "Paruro",
+            "region": "Cusco"
+        }, {
+            "p": "Paucartambo",
+            "region": "Cusco"
+        }, {
+            "p": "Quispicanchi",
+            "region": "Cusco"
+        }, {
+            "p": "Urubamba",
+            "region": "Cusco"
+        }, {
+            "p": "Huancavelica",
+            "region": "Huancavelica"
+        }, {
+            "p": "Acobamba",
+            "region": "Huancavelica"
+        }, {
+            "p": "Angaraes",
+            "region": "Huancavelica"
+        }, {
+            "p": "Castrovirreyna",
+            "region": "Huancavelica"
+        }, {
+            "p": "Churcampa",
+            "region": "Huancavelica"
+        }, {
+            "p": "Huaytará",
+            "region": "Huancavelica"
+        }, {
+            "p": "Tayacaja",
+            "region": "Huancavelica"
+        }, {
+            "p": "Huánuco",
+            "region": "Huánuco"
+        }, {
+            "p": "Ambo",
+            "region": "Huánuco"
+        }, {
+            "p": "Dos de Mayo",
+            "region": "Huánuco"
+        }, {
+            "p": "Huacaybamba",
+            "region": "Huánuco"
+        }, {
+            "p": "Huamalíes",
+            "region": "Huánuco"
+        }, {
+            "p": "Leoncio Prado",
+            "region": "Huánuco"
+        }, {
+            "p": "Marañón",
+            "region": "Huánuco"
+        }, {
+            "p": "Pachitea",
+            "region": "Huánuco"
+        }, {
+            "p": "Puerto Inca",
+            "region": "Huánuco"
+        }, {
+            "p": "Lauricocha",
+            "region": "Huánuco"
+        }, {
+            "p": "Yarowilca",
+            "region": "Huánuco"
+        }, {
+            "p": "Ica",
+            "region": "Ica"
+        }, {
+            "p": "Chincha",
+            "region": "Ica"
+        }, {
+            "p": "Nazca",
+            "region": "Ica"
+        }, {
+            "p": "Palpa",
+            "region": "Ica"
+        }, {
+            "p": "Pisco",
+            "region": "Ica"
+        }, {
+            "p": "Huancayo",
+            "region": "Junín"
+        }, {
+            "p": "Concepción",
+            "region": "Junín"
+        }, {
+            "p": "Chanchamayo",
+            "region": "Junín"
+        }, {
+            "p": "Jauja",
+            "region": "Junín"
+        }, {
+            "p": "Junín",
+            "region": "Junín"
+        }, {
+            "p": "Satipo",
+            "region": "Junín"
+        }, {
+            "p": "Tarma",
+            "region": "Junín"
+        }, {
+            "p": "Yauli",
+            "region": "Junín"
+        }, {
+            "p": "Chupaca",
+            "region": "Junín"
+        }, {
+            "p": "Trujillo",
+            "region": "La Libertad"
+        }, {
+            "p": "Ascope",
+            "region": "La Libertad"
+        }, {
+            "p": "Bolívar",
+            "region": "La Libertad"
+        }, {
+            "p": "Chepén",
+            "region": "La Libertad"
+        }, {
+            "p": "Julcán",
+            "region": "La Libertad"
+        }, {
+            "p": "Otuzco",
+            "region": "La Libertad"
+        }, {
+            "p": "Pacasmayo",
+            "region": "La Libertad"
+        }, {
+            "p": "Pataz",
+            "region": "La Libertad"
+        }, {
+            "p": "Sánchez Carrión",
+            "region": "La Libertad"
+        }, {
+            "p": "Santiago de Chuco",
+            "region": "La Libertad"
+        }, {
+            "p": "Gran Chimú",
+            "region": "La Libertad"
+        }, {
+            "p": "Virú",
+            "region": "La Libertad"
+        }, {
+            "p": "Chiclayo",
+            "region": "Lambayeque"
+        }, {
+            "p": "Ferreñafe",
+            "region": "Lambayeque"
+        }, {
+            "p": "Lambayeque",
+            "region": "Lambayeque"
+        }, {
+            "p": "Lima",
+            "region": "autonomous"
+        }, {
+            "p": "Huaura",
+            "region": "Lima"
+        }, {
+            "p": "Barranca",
+            "region": "Lima"
+        }, {
+            "p": "Cajatambo",
+            "region": "Lima"
+        }, {
+            "p": "Canta",
+            "region": "Lima"
+        }, {
+            "p": "Cañete",
+            "region": "Lima"
+        }, {
+            "p": "Huaral",
+            "region": "Lima"
+        }, {
+            "p": "Huarochirí",
+            "region": "Lima"
+        }, {
+            "p": "Oyón",
+            "region": "Lima"
+        }, {
+            "p": "Yauyos",
+            "region": "Lima"
+        }, {
+            "p": "Maynas",
+            "region": "Loreto"
+        }, {
+            "p": "Alto Amazonas",
+            "region": "Loreto"
+        }, {
+            "p": "Loreto",
+            "region": "Loreto"
+        }, {
+            "p": "Mariscal Ramón Castilla",
+            "region": "Loreto"
+        }, {
+            "p": "Putumayo",
+            "region": "Loreto"
+        }, {
+            "p": "Requena",
+            "region": "Loreto"
+        }, {
+            "p": "Ucayali",
+            "region": "Loreto"
+        }, {
+            "p": "Datem del Marañón",
+            "region": "Loreto"
+        }, {
+            "p": "Tambopata",
+            "region": "Madre de Dios"
+        }, {
+            "p": "Manú",
+            "region": "Madre de Dios"
+        }, {
+            "p": "Tahuamanu",
+            "region": "Madre de Dios"
+        }, {
+            "p": "Mariscal Nieto",
+            "region": "Moquegua"
+        }, {
+            "p": "General Sánchez Cerro",
+            "region": "Moquegua"
+        }, {
+            "p": "Ilo",
+            "region": "Moquegua"
+        }, {
+            "p": "Pasco",
+            "region": "Pasco"
+        }, {
+            "p": "Daniel Alcídes Carrión",
+            "region": "Pasco"
+        }, {
+            "p": "Oxapampa",
+            "region": "Pasco"
+        }, {
+            "p": "Piura",
+            "region": "Piura"
+        }, {
+            "p": "Ayabaca",
+            "region": "Piura"
+        }, {
+            "p": "Huancabamba",
+            "region": "Piura"
+        }, {
+            "p": "Morropón",
+            "region": "Piura"
+        }, {
+            "p": "Paita",
+            "region": "Piura"
+        }, {
+            "p": "Sullana",
+            "region": "Piura"
+        }, {
+            "p": "Talara",
+            "region": "Piura"
+        }, {
+            "p": "Sechura",
+            "region": "Piura"
+        }, {
+            "p": "Puno",
+            "region": "Puno"
+        }, {
+            "p": "Azángaro",
+            "region": "Puno"
+        }, {
+            "p": "Carabaya",
+            "region": "Puno"
+        }, {
+            "p": "Chucuito",
+            "region": "Puno"
+        }, {
+            "p": "El Collao",
+            "region": "Puno"
+        }, {
+            "p": "Huancané",
+            "region": "Puno"
+        }, {
+            "p": "Lampa",
+            "region": "Puno"
+        }, {
+            "p": "Melgar",
+            "region": "Puno"
+        }, {
+            "p": "Moho",
+            "region": "Puno"
+        }, {
+            "p": "San Antonio de Putina",
+            "region": "Puno"
+        }, {
+            "p": "San Román",
+            "region": "Puno"
+        }, {
+            "p": "Sandia",
+            "region": "Puno"
+        }, {
+            "p": "Yunguyo",
+            "region": "Puno"
+        }, {
+            "p": "Moyobamba",
+            "region": "San Martín"
+        }, {
+            "p": "Bellavista",
+            "region": "San Martín"
+        }, {
+            "p": "El Dorado",
+            "region": "San Martín"
+        }, {
+            "p": "Huallaga",
+            "region": "San Martín"
+        }, {
+            "p": "Lamas",
+            "region": "San Martín"
+        }, {
+            "p": "Mariscal Cáceres",
+            "region": "San Martín"
+        }, {
+            "p": "Picota",
+            "region": "San Martín"
+        }, {
+            "p": "Rioja",
+            "region": "San Martín"
+        }, {
+            "p": "San Martín",
+            "region": "San Martín"
+        }, {
+            "p": "Tocache",
+            "region": "San Martín"
+        }, {
+            "p": "Tacna",
+            "region": "Tacna"
+        }, {
+            "p": "Candarave",
+            "region": "Tacna"
+        }, {
+            "p": "Jorge Basadre",
+            "region": "Tacna"
+        }, {
+            "p": "Tarata",
+            "region": "Tacna"
+        }, {
+            "p": "Tumbes",
+            "region": "Tumbes"
+        }, {
+            "p": "Contralmirante Villar",
+            "region": "Tumbes"
+        }, {
+            "p": "Zarumilla",
+            "region": "Tumbes"
+        }, {
+            "p": "Coronel Portillo",
+            "region": "Ucayali"
+        }, {
+            "p": "Atalaya",
+            "region": "Ucayali"
+        }, {
+            "p": "Padre Abad",
+            "region": "Ucayali"
+        }, {
+            "p": "Purús",
+            "region": "Ucayali"
+        }],
+        "CU": [{
+            "p": "Camagüey"
+        }, {
+            "p": "Ciego de Ávila"
+        }, {
+            "p": "Cienfuegos"
+        }, {
+            "p": "Havana"
+        }, {
+            "p": "Bayamo"
+        }, {
+            "p": "Guantánamo"
+        }, {
+            "p": "Holguín"
+        }, {
+            "p": "Nueva Gerona"
+        }, {
+            "p": "Artemisa"
+        }, {
+            "p": "Las Tunas"
+        }, {
+            "p": "Matanzas"
+        }, {
+            "p": "San José de las Lajas"
+        }, {
+            "p": "Pinar del Río"
+        }, {
+            "p": "Sancti Spíritus"
+        }, {
+            "p": "Santiago de Cuba"
+        }, {
+            "p": "Santa Clara"
+        }],
+        "AR": [{
+            "p": "Ciudad Autónoma de Buenos Aires"
+        }, {
+            "p": "Buenos Aires"
+        }, {
+            "p": "Catamarca"
+        }, {
+            "p": "Chaco"
+        }, {
+            "p": "Chubut"
+        }, {
+            "p": "Córdoba"
+        }, {
+            "p": "Corrientes"
+        }, {
+            "p": "Entre Ríos"
+        }, {
+            "p": "Formosa"
+        }, {
+            "p": "Jujuy"
+        }, {
+            "p": "La Pampa"
+        }, {
+            "p": "La Rioja"
+        }, {
+            "p": "Mendoza"
+        }, {
+            "p": "Misiones"
+        }, {
+            "p": "Neuquén"
+        }, {
+            "p": "Río Negro"
+        }, {
+            "p": "Salta"
+        }, {
+            "p": "San Juan"
+        }, {
+            "p": "San Luis"
+        }, {
+            "p": "Santa Cruz"
+        }, {
+            "p": "Santa Fe"
+        }, {
+            "p": "Santiago del Estero"
+        }, {
+            "p": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+        }, {
+            "p": "Tucumán"
+        }],
+        "CL": [{
+            "p": "Arica",
+            "region": "XV Arica and Parinacota"
+        }, {
+            "p": "Parinacota",
+            "region": "XV Arica and Parinacota"
+        }, {
+            "p": "Iquique",
+            "region": "I Tarapacá"
+        }, {
+            "p": "Tamarugal",
+            "region": "I Tarapacá"
+        }, {
+            "p": "Antofagasta",
+            "region": "II Antofagasta"
+        }, {
+            "p": "El Loa",
+            "region": "II Antofagasta"
+        }, {
+            "p": "Tocopilla",
+            "region": "II Antofagasta"
+        }, {
+            "p": "Copiapó",
+            "region": "III Atacama"
+        }, {
+            "p": "Huasco",
+            "region": "III Atacama"
+        }, {
+            "p": "Chañaral",
+            "region": "III Atacama"
+        }, {
+            "p": "Elqui",
+            "region": "IV Coquimbo"
+        }, {
+            "p": "Limarí",
+            "region": "IV Coquimbo"
+        }, {
+            "p": "Choapa",
+            "region": "IV Coquimbo"
+        }, {
+            "p": "Isla de Pascua",
+            "region": "V Valparaíso"
+        }, {
+            "p": "Los Andes",
+            "region": "V Valparaíso"
+        }, {
+            "p": "Marga Marga",
+            "region": "V Valparaíso"
+        }, {
+            "p": "Petorca",
+            "region": "V Valparaíso"
+        }, {
+            "p": "Quillota",
+            "region": "V Valparaíso"
+        }, {
+            "p": "San Antonio",
+            "region": "V Valparaíso"
+        }, {
+            "p": "San Felipe de Aconcagua",
+            "region": "V Valparaíso"
+        }, {
+            "p": "Valparaíso",
+            "region": "V Valparaíso"
+        }, {
+            "p": "Cachapoal",
+            "region": "VI O'Higgins"
+        }, {
+            "p": "Colchagua",
+            "region": "VI O'Higgins"
+        }, {
+            "p": "Cardenal Caro",
+            "region": "VI O'Higgins"
+        }, {
+            "p": "Talca",
+            "region": "VII Maule"
+        }, {
+            "p": "Linares",
+            "region": "VII Maule"
+        }, {
+            "p": "Curicó",
+            "region": "VII Maule"
+        }, {
+            "p": "Cauquenes",
+            "region": "VII Maule"
+        }, {
+            "p": "Concepción",
+            "region": "VIII Biobío"
+        }, {
+            "p": "Ñuble",
+            "region": "VIII Biobío"
+        }, {
+            "p": "Biobío",
+            "region": "VIII Biobío"
+        }, {
+            "p": "Arauco",
+            "region": "VIII Biobío"
+        }, {
+            "p": "Cautin",
+            "region": "IX Araucanía"
+        }, {
+            "p": "Malleco",
+            "region": "IX Araucanía"
+        }, {
+            "p": "Valdivia",
+            "region": "XIV Los Ríos"
+        }, {
+            "p": "Ranco",
+            "region": "XIV Los Ríos"
+        }, {
+            "p": "Llanquihue",
+            "region": "X Los Lagos"
+        }, {
+            "p": "Osorno",
+            "region": "X Los Lagos"
+        }, {
+            "p": "Chiloe",
+            "region": "X Los Lagos"
+        }, {
+            "p": "Palena",
+            "region": "X Los Lagos"
+        }, {
+            "p": "Coihaique",
+            "region": "XI Aisén"
+        }, {
+            "p": "Aisén",
+            "region": "XI Aisén"
+        }, {
+            "p": "General Carrera",
+            "region": "XI Aisén"
+        }, {
+            "p": "Capitan Prat",
+            "region": "XI Aisén"
+        }, {
+            "p": "Magallanes",
+            "region": "XII Magallanes"
+        }, {
+            "p": "Ultima Esperanza",
+            "region": "XII Magallanes"
+        }, {
+            "p": "Tierra del Fuego",
+            "region": "XII Magallanes"
+        }, {
+            "p": "Antártica Chilena",
+            "region": "XII Magallanes"
+        }, {
+            "p": "Santiago",
+            "region": "RM Santiago Metropolitan"
+        }, {
+            "p": "Cordillera",
+            "region": "RM Santiago Metropolitan"
+        }, {
+            "p": "Maipo",
+            "region": "RM Santiago Metropolitan"
+        }, {
+            "p": "Talagante",
+            "region": "RM Santiago Metropolitan"
+        }, {
+            "p": "Melipilla",
+            "region": "RM Santiago Metropolitan"
+        }, {
+            "p": "Chacabuco",
+            "region": "RM Santiago Metropolitan"
+        }],
+        "BO": [{
+            "p": "Cercado",
+            "region": "Beni"
+        }, {
+            "p": "Iténez",
+            "region": "Beni"
+        }, {
+            "p": "José Ballivián",
+            "region": "Beni"
+        }, {
+            "p": "Mamoré",
+            "region": "Beni"
+        }, {
+            "p": "Marbán",
+            "region": "Beni"
+        }, {
+            "p": "Moxos",
+            "region": "Beni"
+        }, {
+            "p": "Vaca Díez",
+            "region": "Beni"
+        }, {
+            "p": "Yacuma",
+            "region": "Beni"
+        }, {
+            "p": "Azurduy",
+            "region": "Chuquisaca"
+        }, {
+            "p": "Belisario Boeto",
+            "region": "Chuquisaca"
+        }, {
+            "p": "Hernando Siles",
+            "region": "Chuquisaca"
+        }, {
+            "p": "Jaime Zudáñez",
+            "region": "Chuquisaca"
+        }, {
+            "p": "Luis Calvo",
+            "region": "Chuquisaca"
+        }, {
+            "p": "Nor Cinti",
+            "region": "Chuquisaca"
+        }, {
+            "p": "Oropeza",
+            "region": "Chuquisaca"
+        }, {
+            "p": "Sud Cinti",
+            "region": "Chuquisaca"
+        }, {
+            "p": "Tomina",
+            "region": "Chuquisaca"
+        }, {
+            "p": "Yamparáez",
+            "region": "Chuquisaca"
+        }, {
+            "p": "Arani",
+            "region": "Cochabamba"
+        }, {
+            "p": "Arque",
+            "region": "Cochabamba"
+        }, {
+            "p": "Ayopaya",
+            "region": "Cochabamba"
+        }, {
+            "p": "Capinota",
+            "region": "Cochabamba"
+        }, {
+            "p": "Carrasco",
+            "region": "Cochabamba"
+        }, {
+            "p": "Cercado",
+            "region": "Cochabamba"
+        }, {
+            "p": "Chapare",
+            "region": "Cochabamba"
+        }, {
+            "p": "Esteban Arce",
+            "region": "Cochabamba"
+        }, {
+            "p": "Germán Jordán",
+            "region": "Cochabamba"
+        }, {
+            "p": "Mizque",
+            "region": "Cochabamba"
+        }, {
+            "p": "Campero",
+            "region": "Cochabamba"
+        }, {
+            "p": "Punata",
+            "region": "Cochabamba"
+        }, {
+            "p": "Quillacollo",
+            "region": "Cochabamba"
+        }, {
+            "p": "Bolívar",
+            "region": "Cochabamba"
+        }, {
+            "p": "Tapacarí",
+            "region": "Cochabamba"
+        }, {
+            "p": "Tiraque",
+            "region": "Cochabamba"
+        }, {
+            "p": "Abel Iturralde",
+            "region": "La Paz"
+        }, {
+            "p": "Aroma",
+            "region": "La Paz"
+        }, {
+            "p": "Bautista Saavedra",
+            "region": "La Paz"
+        }, {
+            "p": "Caranavi",
+            "region": "La Paz"
+        }, {
+            "p": "Eliodoro Camacho",
+            "region": "La Paz"
+        }, {
+            "p": "Franz Tamayo",
+            "region": "La Paz"
+        }, {
+            "p": "Gualberto Villarroel",
+            "region": "La Paz"
+        }, {
+            "p": "Ingavi",
+            "region": "La Paz"
+        }, {
+            "p": "Inquisivi",
+            "region": "La Paz"
+        }, {
+            "p": "José Manuel Pando",
+            "region": "La Paz"
+        }, {
+            "p": "Larecaja",
+            "region": "La Paz"
+        }, {
+            "p": "Loayza",
+            "region": "La Paz"
+        }, {
+            "p": "Los Andes",
+            "region": "La Paz"
+        }, {
+            "p": "Manco Kapac",
+            "region": "La Paz"
+        }, {
+            "p": "Muñecas",
+            "region": "La Paz"
+        }, {
+            "p": "Nor Yungas",
+            "region": "La Paz"
+        }, {
+            "p": "Omasuyos",
+            "region": "La Paz"
+        }, {
+            "p": "Pacajes",
+            "region": "La Paz"
+        }, {
+            "p": "Murillo",
+            "region": "La Paz"
+        }, {
+            "p": "Sud Yungas",
+            "region": "La Paz"
+        }, {
+            "p": "Atahuallpa",
+            "region": "Oruro"
+        }, {
+            "p": "Carangas",
+            "region": "Oruro"
+        }, {
+            "p": "Cercado",
+            "region": "Oruro"
+        }, {
+            "p": "Eduardo Avaroa",
+            "region": "Oruro"
+        }, {
+            "p": "Ladislao Cabrera",
+            "region": "Oruro"
+        }, {
+            "p": "Litoral",
+            "region": "Oruro"
+        }, {
+            "p": "Nor Carangas",
+            "region": "Oruro"
+        }, {
+            "p": "Pantaléon Dalence",
+            "region": "Oruro"
+        }, {
+            "p": "Poopó",
+            "region": "Oruro"
+        }, {
+            "p": "Puerto de Mejillones",
+            "region": "Oruro"
+        }, {
+            "p": "Sajama",
+            "region": "Oruro"
+        }, {
+            "p": "San Pedro de Totora",
+            "region": "Oruro"
+        }, {
+            "p": "Saucarí",
+            "region": "Oruro"
+        }, {
+            "p": "Sebastián Pagador",
+            "region": "Oruro"
+        }, {
+            "p": "Sud Carangas",
+            "region": "Oruro"
+        }, {
+            "p": "Tomas Barrón",
+            "region": "Oruro"
+        }, {
+            "p": "Abuná",
+            "region": "Pando"
+        }, {
+            "p": "Federico Román",
+            "region": "Pando"
+        }, {
+            "p": "Madre de Dios",
+            "region": "Pando"
+        }, {
+            "p": "Manuripi",
+            "region": "Pando"
+        }, {
+            "p": "Nicolás Suárez",
+            "region": "Pando"
+        }, {
+            "p": "Alonso de Ibáñez",
+            "region": "Potosí"
+        }, {
+            "p": "Antonio Quijarro",
+            "region": "Potosí"
+        }, {
+            "p": "Bernardino Bilbao",
+            "region": "Potosí"
+        }, {
+            "p": "Charcas",
+            "region": "Potosí"
+        }, {
+            "p": "Chayanta",
+            "region": "Potosí"
+        }, {
+            "p": "Cornelio Saavedra",
+            "region": "Potosí"
+        }, {
+            "p": "Daniel Campos",
+            "region": "Potosí"
+        }, {
+            "p": "Enrique Baldivieso",
+            "region": "Potosí"
+        }, {
+            "p": "José María Linares",
+            "region": "Potosí"
+        }, {
+            "p": "Modesto Omiste",
+            "region": "Potosí"
+        }, {
+            "p": "Nor Chichas",
+            "region": "Potosí"
+        }, {
+            "p": "Nor Lípez",
+            "region": "Potosí"
+        }, {
+            "p": "Rafael Bustillo",
+            "region": "Potosí"
+        }, {
+            "p": "Sur Chichas",
+            "region": "Potosí"
+        }, {
+            "p": "Sur Lípez",
+            "region": "Potosí"
+        }, {
+            "p": "Tomás Frías",
+            "region": "Potosí"
+        }, {
+            "p": "Andrés Ibáñez",
+            "region": "Santa Cruz"
+        }, {
+            "p": "Ángel Sandoval",
+            "region": "Santa Cruz"
+        }, {
+            "p": "Chiquitos",
+            "region": "Santa Cruz"
+        }, {
+            "p": "Cordillera",
+            "region": "Santa Cruz"
+        }, {
+            "p": "Florida",
+            "region": "Santa Cruz"
+        }, {
+            "p": "Germán Busch",
+            "region": "Santa Cruz"
+        }, {
+            "p": "Guarayos",
+            "region": "Santa Cruz"
+        }, {
+            "p": "Ichilo",
+            "region": "Santa Cruz"
+        }, {
+            "p": "Ignacio Warnes",
+            "region": "Santa Cruz"
+        }, {
+            "p": "José Miguel de Velasco",
+            "region": "Santa Cruz"
+        }, {
+            "p": "Manuel María Caballero",
+            "region": "Santa Cruz"
+        }, {
+            "p": "Ñuflo de Chávez",
+            "region": "Santa Cruz"
+        }, {
+            "p": "Obispo Santistevan",
+            "region": "Santa Cruz"
+        }, {
+            "p": "Sara",
+            "region": "Santa Cruz"
+        }, {
+            "p": "Vallegrande",
+            "region": "Santa Cruz"
+        }, {
+            "p": "Aniceto Arce",
+            "region": "Tarija"
+        }, {
+            "p": "Burnet O'Connor",
+            "region": "Tarija"
+        }, {
+            "p": "Cercado",
+            "region": "Tarija"
+        }, {
+            "p": "Eustaquio Méndez",
+            "region": "Tarija"
+        }, {
+            "p": "Gran Chaco",
+            "region": "Tarija"
+        }, {
+            "p": "José María Avilés",
+            "region": "Tarija"
+        }],
+        "ES": [{
+            "p": "La Coruña",
+            "sp": "C"
+        }, {
+            "p": "Lugo",
+            "sp": "LU"
+        }, {
+            "p": "Vizcaya",
+            "sp": "BI"
+        }, {
+            "p": "Guipúzcoa",
+            "sp": "SS"
+        }, {
+            "p": "Huesca",
+            "sp": "HU"
+        }, {
+            "p": "Lérida",
+            "sp": "L"
+        }, {
+            "p": "Gerona",
+            "sp": "GI"
+        }, {
+            "p": "Barcelona",
+            "sp": "B"
+        }, {
+            "p": "Tarragona",
+            "sp": "T"
+        }, {
+            "p": "Castellón",
+            "sp": "CS"
+        }, {
+            "p": "Valencia",
+            "sp": "V"
+        }, {
+            "p": "Alicante",
+            "sp": "A"
+        }, {
+            "p": "Murcia",
+            "sp": "MU"
+        }, {
+            "p": "Zaragoza",
+            "sp": "Z"
+        }, {
+            "p": "Teruel",
+            "sp": "TE"
+        }, {
+            "p": "Cuenca",
+            "sp": "CU"
+        }, {
+            "p": "Albacete",
+            "sp": "AB"
+        }, {
+            "p": "Almeria",
+            "sp": "AL"
+        }, {
+            "p": "Granada",
+            "sp": "GR"
+        }, {
+            "p": "Málaga",
+            "sp": "MA"
+        }, {
+            "p": "Tenerife",
+            "sp": "TF"
+        }, {
+            "p": "Cádiz",
+            "sp": "CA"
+        }, {
+            "p": "Sevilla",
+            "sp": "SE"
+        }, {
+            "p": "Huelva",
+            "sp": "H"
+        }, {
+            "p": "Las Palmas",
+            "sp": "GC"
+        }, {
+            "p": "Madrid",
+            "sp": "M"
+        }, {
+            "p": "Badajoz",
+            "sp": "BA"
+        }, {
+            "p": "Cáceres",
+            "sp": "CC"
+        }, {
+            "p": "Toledo",
+            "sp": "TO"
+        }, {
+            "p": "Ciudad Real",
+            "sp": "CR"
+        }, {
+            "p": "Salamanca",
+            "sp": "SA"
+        }, {
+            "p": "Córdoba",
+            "sp": "CO"
+        }, {
+            "p": "Jaén",
+            "sp": "J"
+        }, {
+            "p": "Ávila",
+            "sp": "AV"
+        }, {
+            "p": "Valladolid",
+            "sp": "VA"
+        }, {
+            "p": "Zamora",
+            "sp": "ZA"
+        }, {
+            "p": "Álava",
+            "sp": "VI"
+        }, {
+            "p": "Segovia",
+            "sp": "SG"
+        }, {
+            "p": "Burgos",
+            "sp": "BU"
+        }, {
+            "p": "Pontevedra",
+            "sp": "PO"
+        }, {
+            "p": "León",
+            "sp": "LE"
+        }, {
+            "p": "Orense",
+            "sp": "OU"
+        }, {
+            "p": "Palencia",
+            "sp": "P"
+        }, {
+            "p": "La Rioja",
+            "sp": "LO"
+        }, {
+            "p": "Soria",
+            "sp": "SO"
+        }, {
+            "p": "Guadalajara",
+            "sp": "GU"
+        }],
+        "BD": [{
+            "p": "বরগুনা",
+            "english": "Barguna",
+            "region": "Barisal"
+        }, {
+            "p": "বরিশাল",
+            "english": "Barisal",
+            "region": "Barisal"
+        }, {
+            "p": "ভোলা",
+            "english": "Bhola",
+            "region": "Barisal"
+        }, {
+            "p": "ঝালকাঠি",
+            "english": "Jhalokati",
+            "region": "Barisal"
+        }, {
+            "p": "পটুয়াখালী",
+            "english": "Patuakhali",
+            "region": "Barisal"
+        }, {
+            "p": "পিরোজপুর",
+            "english": "Pirojpur",
+            "region": "Barisal"
+        }, {
+            "p": "বান্দরবান",
+            "english": "Bandarban",
+            "region": "Chittagong"
+        }, {
+            "p": "ব্রাহ্মণবাড়ীয়া",
+            "english": "Brahmanbaria",
+            "region": "Chittagong"
+        }, {
+            "p": "চাঁদপুর",
+            "english": "Chandpur",
+            "region": "Chittagong"
+        }, {
+            "p": "চট্টগ্রাম",
+            "english": "Chittagong",
+            "region": "Chittagong"
+        }, {
+            "p": "কুমিল্লা",
+            "english": "Comilla",
+            "region": "Chittagong"
+        }, {
+            "p": "কক্সবাজার",
+            "english": "Cox's Bazar",
+            "region": "Chittagong"
+        }, {
+            "p": "ফেনী",
+            "english": "Feni",
+            "region": "Chittagong"
+        }, {
+            "p": "খাগড়াছড়ি",
+            "english": "Khagrachhari",
+            "region": "Chittagong"
+        }, {
+            "p": "লক্ষীপুর",
+            "english": "Lakshmipur",
+            "region": "Chittagong"
+        }, {
+            "p": "নোয়াখালী",
+            "english": "Noakhali",
+            "region": "Chittagong"
+        }, {
+            "p": "রাঙ্গামাটি",
+            "english": "Rangamati",
+            "region": "Chittagong"
+        }, {
+            "p": "ঢাকা",
+            "english": "Dhaka",
+            "region": "Dhaka"
+        }, {
+            "p": "ফরিদপুর",
+            "english": "Faridpur",
+            "region": "Dhaka"
+        }, {
+            "p": "গাজীপুর",
+            "english": "Gazipur",
+            "region": "Dhaka"
+        }, {
+            "p": "গোপালগঞ্জ",
+            "english": "Gopalganj",
+            "region": "Dhaka"
+        }, {
+            "p": "জামালপুর",
+            "english": "Jamalpur",
+            "region": "Dhaka"
+        }, {
+            "p": "কিশোরগঞ্জ",
+            "english": "Kishoreganj",
+            "region": "Dhaka"
+        }, {
+            "p": "মাদারীপুর",
+            "english": "Madaripur",
+            "region": "Dhaka"
+        }, {
+            "p": "মানিকগঞ্জ",
+            "english": "Manikganj",
+            "region": "Dhaka"
+        }, {
+            "p": "মুন্সীগঞ্জ",
+            "english": "Munshiganj",
+            "region": "Dhaka"
+        }, {
+            "p": "ময়মনসিংহ",
+            "english": "Mymensingh",
+            "region": "Dhaka"
+        }, {
+            "p": "নারায়ণগঞ্জ",
+            "english": "Narayanganj",
+            "region": "Dhaka"
+        }, {
+            "p": "নরসিংদী",
+            "english": "Narsingdi",
+            "region": "Dhaka"
+        }, {
+            "p": "নেত্রকোনা",
+            "english": "Netrakona",
+            "region": "Dhaka"
+        }, {
+            "p": "রাজবাড়ী",
+            "english": "Rajbari",
+            "region": "Dhaka"
+        }, {
+            "p": "শরীয়তপুর",
+            "english": "Shariatpur",
+            "region": "Dhaka"
+        }, {
+            "p": "শেরপুর",
+            "english": "Sherpur",
+            "region": "Dhaka"
+        }, {
+            "p": "টাঙ্গাইল",
+            "english": "Tangail",
+            "region": "Dhaka"
+        }, {
+            "p": "বাগেরহাট",
+            "english": "Bagerhat",
+            "region": "Khulna"
+        }, {
+            "p": "চুয়াডাঙ্গা",
+            "english": "Chuadanga",
+            "region": "Khulna"
+        }, {
+            "p": "যশোর",
+            "english": "Jessore",
+            "region": "Khulna"
+        }, {
+            "p": "ঝিনাইদহ",
+            "english": "Jhenaidah",
+            "region": "Khulna"
+        }, {
+            "p": "খুলনা",
+            "english": "Khulna",
+            "region": "Khulna"
+        }, {
+            "p": "কুষ্টিয়া",
+            "english": "Kushtia",
+            "region": "Khulna"
+        }, {
+            "p": "মাগুরা",
+            "english": "Magura",
+            "region": "Khulna"
+        }, {
+            "p": "মেহেরপুর",
+            "english": "Meherpur",
+            "region": "Khulna"
+        }, {
+            "p": "নড়াইল",
+            "english": "Narail",
+            "region": "Khulna"
+        }, {
+            "p": "সাতক্ষিরা",
+            "english": "Satkhira",
+            "region": "Khulna"
+        }, {
+            "p": "বগুড়া",
+            "english": "Bogra",
+            "region": "Rajshahi"
+        }, {
+            "p": "জয়পুরহাট",
+            "english": "Joypurhat",
+            "region": "Rajshahi"
+        }, {
+            "p": "নওগাঁ",
+            "english": "Naogaon",
+            "region": "Rajshahi"
+        }, {
+            "p": "নাটোর",
+            "english": "Natore",
+            "region": "Rajshahi"
+        }, {
+            "p": "নওয়াবগঞ্জ",
+            "english": "Chapainawabganj",
+            "region": "Rajshahi"
+        }, {
+            "p": "পাবনা",
+            "english": "Pabna",
+            "region": "Rajshahi"
+        }, {
+            "p": "রাজশাহী",
+            "english": "Rajshahi",
+            "region": "Rajshahi"
+        }, {
+            "p": "সিরাজগঞ্জ",
+            "english": "Sirajganj",
+            "region": "Rajshahi"
+        }, {
+            "p": "দিনাজপুর",
+            "english": "Dinajpur",
+            "region": "Rangpur"
+        }, {
+            "p": "গাইবান্ধা",
+            "english": "Gaibandha",
+            "region": "Rangpur"
+        }, {
+            "p": "কুড়িগ্রাম",
+            "english": "Kurigram",
+            "region": "Rangpur"
+        }, {
+            "p": "লালমনিরহাট",
+            "english": "Lalmonirhat",
+            "region": "Rangpur"
+        }, {
+            "p": "নীলফামারী",
+            "english": "Nilphamari",
+            "region": "Rangpur"
+        }, {
+            "p": "পঞ্চগড়",
+            "english": "Panchagarh",
+            "region": "Rangpur"
+        }, {
+            "p": "রংপুর",
+            "english": "Rangpur",
+            "region": "Rangpur"
+        }, {
+            "p": "ঠাকুরগাঁ",
+            "english": "Thakurgaon",
+            "region": "Rangpur"
+        }, {
+            "p": "হবিগঞ্জ",
+            "english": "Habiganj",
+            "region": "Sylhet"
+        }, {
+            "p": "মৌলভীবাজার",
+            "english": "Moulvibazar",
+            "region": "Sylhet"
+        }, {
+            "p": "সুনামগঞ্জ",
+            "english": "Sunamganj",
+            "region": "Sylhet"
+        }, {
+            "p": "সিলেট",
+            "english": "Sylhet",
+            "region": "Sylhet"
+        }],
+        "PK": [{
+            "p": "Azad Kashmir"
+        }, {
+            "p": "Bahawalpur"
+        }, {
+            "p": "Bannu"
+        }, {
+            "p": "Dera Ghazi Khan"
+        }, {
+            "p": "Dera Ismail Khan"
+        }, {
+            "p": "Faisalabad"
+        }, {
+            "p": "F.A.T.A."
+        }, {
+            "p": "Gujranwala"
+        }, {
+            "p": "Hazara"
+        }, {
+            "p": "Hyderabad"
+        }, {
+            "p": "Islamabad"
+        }, {
+            "p": "Kalat"
+        }, {
+            "p": "Karachi"
+        }, {
+            "p": "Kohat"
+        }, {
+            "p": "Lahore"
+        }, {
+            "p": "Larkana"
+        }, {
+            "p": "Makran"
+        }, {
+            "p": "Malakand"
+        }, {
+            "p": "Mardan"
+        }, {
+            "p": "Mirpur Khas"
+        }, {
+            "p": "Multan"
+        }, {
+            "p": "Nasirabad"
+        }, {
+            "p": "Northern Areas"
+        }, {
+            "p": "Peshawar"
+        }, {
+            "p": "Quetta"
+        }, {
+            "p": "Rawalpindi"
+        }, {
+            "p": "Sargodha"
+        }, {
+            "p": "Sahiwal"
+        }, {
+            "p": "Sibi"
+        }, {
+            "p": "Sukkur"
+        }, {
+            "p": "Zhob"
+        }],
+        "NG": [{
+            "p": "Anambra"
+        }, {
+            "p": "Enugu"
+        }, {
+            "p": "Akwa Ibom"
+        }, {
+            "p": "Adamawa"
+        }, {
+            "p": "Abia"
+        }, {
+            "p": "Bauchi"
+        }, {
+            "p": "Bayelsa"
+        }, {
+            "p": "Benue"
+        }, {
+            "p": "Borno"
+        }, {
+            "p": "Cross River"
+        }, {
+            "p": "Delta"
+        }, {
+            "p": "Ebonyi"
+        }],
+        "JP": [{
+            "p": "愛知県",
+            "english": "Aichi"
+        }, {
+            "p": "秋田県",
+            "english": "Akita"
+        }, {
+            "p": "青森県",
+            "english": "Aomori"
+        }, {
+            "p": "千葉県",
+            "english": "Chiba"
+        }, {
+            "p": "愛媛県",
+            "english": "Ehime"
+        }, {
+            "p": "福井県",
+            "english": "Fukui"
+        }, {
+            "p": "福岡県",
+            "english": "Fukuoka"
+        }, {
+            "p": "福島県",
+            "english": "Fukushima"
+        }, {
+            "p": "岐阜県",
+            "english": "Gifu"
+        }, {
+            "p": "群馬県",
+            "english": "Gunma"
+        }, {
+            "p": "広島県",
+            "english": "Hiroshima"
+        }, {
+            "p": "北海道",
+            "english": "Hokkaidō"
+        }, {
+            "p": "兵庫県",
+            "english": "Hyōgo"
+        }, {
+            "p": "茨城県",
+            "english": "Ibaraki"
+        }, {
+            "p": "石川県",
+            "english": "Ishikawa"
+        }, {
+            "p": "岩手県",
+            "english": "Iwate"
+        }, {
+            "p": "香川県",
+            "english": "Kagawa"
+        }, {
+            "p": "鹿児島県",
+            "english": "Kagoshima"
+        }, {
+            "p": "神奈川県",
+            "english": "Kanagawa"
+        }, {
+            "p": "高知県",
+            "english": "Kōchi"
+        }, {
+            "p": "熊本県",
+            "english": "Kumamoto"
+        }, {
+            "p": "京都府",
+            "english": "Kyōto"
+        }, {
+            "p": "三重県",
+            "english": "Mie"
+        }, {
+            "p": "宮城県",
+            "english": "Miyagi"
+        }, {
+            "p": "宮崎県",
+            "english": "Miyazaki"
+        }, {
+            "p": "長野県",
+            "english": "Nagano"
+        }, {
+            "p": "長崎県",
+            "english": "Nagasaki"
+        }, {
+            "p": "奈良県",
+            "english": "Nara"
+        }, {
+            "p": "新潟県",
+            "english": "Niigata"
+        }, {
+            "p": "大分県",
+            "english": "Ōita"
+        }, {
+            "p": "岡山県",
+            "english": "Okayama"
+        }, {
+            "p": "沖縄県",
+            "english": "Okinawa"
+        }, {
+            "p": "大阪府",
+            "english": "Ōsaka"
+        }, {
+            "p": "佐賀県",
+            "english": "Saga"
+        }, {
+            "p": "埼玉県",
+            "english": "Saitama"
+        }, {
+            "p": "滋賀県",
+            "english": "Shiga"
+        }, {
+            "p": "島根県",
+            "english": "Shimane"
+        }, {
+            "p": "静岡県",
+            "english": "Shizuoka"
+        }, {
+            "p": "栃木県",
+            "english": "Tochigi"
+        }, {
+            "p": "徳島県",
+            "english": "Tokushima"
+        }, {
+            "p": "東京都",
+            "english": "Tōkyō"
+        }, {
+            "p": "鳥取県",
+            "english": "Tottori"
+        }, {
+            "p": "富山県",
+            "english": "Toyama"
+        }, {
+            "p": "和歌山県",
+            "english": "Wakayama"
+        }, {
+            "p": "山形県",
+            "english": "Yamagata"
+        }, {
+            "p": "山口県",
+            "english": "Yamaguchi"
+        }, {
+            "p": "山梨県",
+            "english": "Yamanashi"
+        }],
+        "AT": [{
+            "sp": "B",
+            "p": "Burgenland"
+        }, {
+            "sp": "K",
+            "p": "Kärnten"
+        }, {
+            "sp": "NÖ",
+            "p": "Niederösterreich"
+        }, {
+            "sp": "OÖ",
+            "p": "Oberösterreich"
+        }, {
+            "sp": "S",
+            "p": "Salzburg"
+        }, {
+            "sp": "ST",
+            "p": "Steiermark"
+        }, {
+            "sp": "T",
+            "p": "Tirol"
+        }, {
+            "sp": "V",
+            "p": "Vorarlberg"
+        }, {
+            "sp": "W",
+            "p": "Wien"
+        }],
+        "BR": [{
+            "sp": "AC",
+            "p": "Acre"
+        }, {
+            "sp": "AL",
+            "p": "Alagoas"
+        }, {
+            "sp": "AP",
+            "p": "Amapá"
+        }, {
+            "sp": "AM",
+            "p": "Amazonas"
+        }, {
+            "sp": "BA",
+            "p": "Bahia"
+        }, {
+            "sp": "CE",
+            "p": "Ceará"
+        }, {
+            "sp": "DF",
+            "p": "Distrito Federal"
+        }, {
+            "sp": "ES",
+            "p": "Espírito Santo"
+        }, {
+            "sp": "GO",
+            "p": "Goiás"
+        }, {
+            "sp": "MA",
+            "p": "Maranhão"
+        }, {
+            "sp": "MT",
+            "p": "Mato Grosso"
+        }, {
+            "sp": "MS",
+            "p": "Mato Grosso do Sul"
+        }, {
+            "sp": "MG",
+            "p": "Minas Gerais"
+        }, {
+            "sp": "PA",
+            "p": "Pará"
+        }, {
+            "sp": "PB",
+            "p": "Paraíba"
+        }, {
+            "sp": "PR",
+            "p": "Paraná"
+        }, {
+            "sp": "PE",
+            "p": "Pernambuco"
+        }, {
+            "sp": "PI",
+            "p": "Piauí"
+        }, {
+            "sp": "RJ",
+            "p": "Rio de Janeiro"
+        }, {
+            "sp": "RN",
+            "p": "Rio Grande do Norte"
+        }, {
+            "sp": "RS",
+            "p": "Rio Grande do Sul"
+        }, {
+            "sp": "RO",
+            "p": "Rondônia"
+        }, {
+            "sp": "RR",
+            "p": "Roraima"
+        }, {
+            "sp": "SC",
+            "p": "Santa Catarina"
+        }, {
+            "sp": "SP",
+            "p": "São Paulo"
+        }, {
+            "sp": "SE",
+            "p": "Sergipe"
+        }, {
+            "sp": "TO",
+            "p": "Tocantins"
+        }],
+        "PH": [{
+            "p": "Abra"
+        }, {
+            "p": "Agusan del Norte"
+        }, {
+            "p": "Agusan del Sur"
+        }, {
+            "p": "Aklan"
+        }, {
+            "p": "Albay"
+        }, {
+            "p": "Antique"
+        }, {
+            "p": "Apayao"
+        }, {
+            "p": "Aurora"
+        }, {
+            "p": "Basilan"
+        }, {
+            "p": "Bataan"
+        }, {
+            "p": "Batanes"
+        }, {
+            "p": "Batangas"
+        }, {
+            "p": "Benguet"
+        }, {
+            "p": "Biliran"
+        }, {
+            "p": "Bohol"
+        }, {
+            "p": "Bukidnon"
+        }, {
+            "p": "Bulacan"
+        }, {
+            "p": "Cagayan"
+        }, {
+            "p": "Camarines Norte"
+        }, {
+            "p": "Camarines Sur"
+        }, {
+            "p": "Camiguin"
+        }, {
+            "p": "Capiz"
+        }, {
+            "p": "Catanduanes"
+        }, {
+            "p": "Cavite"
+        }, {
+            "p": "Cebu"
+        }, {
+            "p": "Compostela Valley"
+        }, {
+            "p": "Cotabato"
+        }, {
+            "p": "Davao del Norte"
+        }, {
+            "p": "Davao del Sur"
+        }, {
+            "p": "Davao Occidental"
+        }, {
+            "p": "Davao Oriental"
+        }, {
+            "p": "Dinagat Islands"
+        }, {
+            "p": "Eastern Samar"
+        }, {
+            "p": "Guimaras"
+        }, {
+            "p": "Ifugao"
+        }, {
+            "p": "Ilocos Norte"
+        }, {
+            "p": "Ilocos Sur"
+        }, {
+            "p": "Iloilo"
+        }, {
+            "p": "Isabela"
+        }, {
+            "p": "Kalinga"
+        }, {
+            "p": "La Union"
+        }, {
+            "p": "Laguna"
+        }, {
+            "p": "Lanao del Norte"
+        }, {
+            "p": "Lanao del Sur"
+        }, {
+            "p": "Leyte"
+        }, {
+            "p": "Maguindanao"
+        }, {
+            "p": "Marinduque"
+        }, {
+            "p": "Masbate"
+        }, {
+            "p": "Misamis Occidental"
+        }, {
+            "p": "Misamis Oriental"
+        }, {
+            "p": "Mountain Province"
+        }, {
+            "p": "Negros Occidental"
+        }, {
+            "p": "Negros Oriental"
+        }, {
+            "p": "Northern Samar"
+        }, {
+            "p": "Nueva Ecija"
+        }, {
+            "p": "Nueva Vizcaya"
+        }, {
+            "p": "Occidental Mindoro"
+        }, {
+            "p": "Oriental Mindoro"
+        }, {
+            "p": "Palawan"
+        }, {
+            "p": "Pampanga"
+        }, {
+            "p": "Pangasinan"
+        }, {
+            "p": "Quezon"
+        }, {
+            "p": "Quirino"
+        }, {
+            "p": "Rizal"
+        }, {
+            "p": "Romblon"
+        }, {
+            "p": "Samar"
+        }, {
+            "p": "Sarangani"
+        }, {
+            "p": "Siquijor"
+        }, {
+            "p": "Sorsogon"
+        }, {
+            "p": "South Cotabato"
+        }, {
+            "p": "Southern Leyte"
+        }, {
+            "p": "Sultan Kudarat"
+        }, {
+            "p": "Sulu"
+        }, {
+            "p": "Surigao del Norte"
+        }, {
+            "p": "Surigao del Sur"
+        }, {
+            "p": "Tarlac"
+        }, {
+            "p": "Tawi-Tawi"
+        }, {
+            "p": "Zambales"
+        }, {
+            "p": "Zamboanga del Norte"
+        }, {
+            "p": "Zamboanga del Sur"
+        }, {
+            "p": "Zamboanga Sibugay"
+        }, {
+            "p": "Metro Manila"
+        }],
+        "VN": [{
+            "p": "Hà Nội"
+        }, {
+            "p": "Hà Giang"
+        }, {
+            "p": "Cao Bằng"
+        }, {
+            "p": "Bắc Kạn"
+        }, {
+            "p": "Tuyên Quang"
+        }, {
+            "p": "Lào Cai"
+        }, {
+            "p": "Điện Biên"
+        }, {
+            "p": "Lai Châu"
+        }, {
+            "p": "Sơn La"
+        }, {
+            "p": "Yên Bái"
+        }, {
+            "p": "Hòa Bình"
+        }, {
+            "p": "Thái Nguyên"
+        }, {
+            "p": "Lạng Sơn"
+        }, {
+            "p": "Quảng Ninh"
+        }, {
+            "p": "Bắc Giang"
+        }, {
+            "p": "Phú Thọ"
+        }, {
+            "p": "Vĩnh Phúc"
+        }, {
+            "p": "Bắc Ninh"
+        }, {
+            "p": "Hải Dương"
+        }, {
+            "p": "Hải Phòng"
+        }, {
+            "p": "Hưng Yên"
+        }, {
+            "p": "Thái Bình"
+        }, {
+            "p": "Hà Nam"
+        }, {
+            "p": "Nam Định"
+        }, {
+            "p": "Ninh Bình"
+        }, {
+            "p": "Thanh Hóa"
+        }, {
+            "p": "Nghệ An"
+        }, {
+            "p": "Hà Tĩnh"
+        }, {
+            "p": "Quảng Bình"
+        }, {
+            "p": "Quảng Trị"
+        }, {
+            "p": "Thừa Thiên–Huế"
+        }, {
+            "p": "Đà Nẵng"
+        }, {
+            "p": "Quảng Nam"
+        }, {
+            "p": "Quảng Ngãi"
+        }, {
+            "p": "Bình Định"
+        }, {
+            "p": "Phú Yên"
+        }, {
+            "p": "Khánh Hòa"
+        }, {
+            "p": "Ninh Thuận"
+        }, {
+            "p": "Bình Thuận"
+        }, {
+            "p": "Kon Tum"
+        }, {
+            "p": "Gia Lai"
+        }, {
+            "p": "Đắk Lắk"
+        }, {
+            "p": "Đắk Nông"
+        }, {
+            "p": "Lâm Đồng"
+        }, {
+            "p": "Bình Phước"
+        }, {
+            "p": "Tây Ninh"
+        }, {
+            "p": "Bình Dương"
+        }, {
+            "p": "Đồng Nai"
+        }, {
+            "p": "Bà Rịa–Vũng Tàu"
+        }, {
+            "p": "Thành phố Hồ Chí Minh"
+        }, {
+            "p": "Long An"
+        }, {
+            "p": "Tiền Giang"
+        }, {
+            "p": "Bến Tre"
+        }, {
+            "p": "Trà Vinh"
+        }, {
+            "p": "Vĩnh Long"
+        }, {
+            "p": "Đồng Tháp"
+        }, {
+            "p": "An Giang"
+        }, {
+            "p": "Kiên Giang"
+        }, {
+            "p": "Cần Thơ"
+        }, {
+            "p": "Hậu Giang"
+        }, {
+            "p": "Sóc Trăng"
+        }, {
+            "p": "Bạc Liêu"
+        }, {
+            "p": "Cà Mau"
+        }]
+    }
+}

@@ -2,7 +2,7 @@
 
 state and province lists for countries
 
-# completeness
+# Completeness
 
 This module currently has states and provinces for:
 
@@ -37,32 +37,42 @@ This module currently has states and provinces for:
 * Philippines (PH)
 * Vietnam (VN)
 
-# methods
+# Methods
 
 ``` js
 var provinces = require('provinces')
 ```
 
-Requiring the module gives you an array of object rows.
+Requiring the module returns an object containing two root keys:
 
-# data format
+'countries' and 'provinces'
 
-Each row consists of:
+Although 'provinces' is a misnomer for much of the data in this module, it was used to generalize regions, states, provinces etc.
 
-* row.name - full name of the province or state
-* row.country - country abbreviation
-* row.short - optional 2 or 3 character short name
-* row.alt - optional array of additional names and abbreviations
-* row.region - optional region of a country (for example: "Wales")
+# Data Format
 
-# install
+Countries cosists of objects containing:
 
-With [npm](https://npmjs.org) do:
+* 'c' : Country name
+* 's' : Short country code (eg. CA)
+
+Provinces is an object with country codes as keys, each country code key maps to an object containing:
+
+(- designates that this property is only available in some country key objects)
+
+* 'p' : Province name
+- 'sp' : Abbreviated name
+- 'region' : Region name
+- 'english' : Name in english
+
+# Install
+
+<!-- With [npm](https://npmjs.org) do: -->
 
 ```
 npm install provinces
 ```
 
-# license
+# License
 
 MIT
