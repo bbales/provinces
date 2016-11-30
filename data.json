@@ -1,5 +1,5 @@
 {
-    countries: [{
+    "countries": [{
         "c": "Argentina",
         "s": "AR"
     }, {
@@ -90,7 +90,7 @@
         "c": "Vietnam",
         "s": "VN"
     }],
-    provinces: {
+    "provinces": {
         "US": [{
             "sp": "AL",
             "p": "Alabama"
@@ -584,346 +584,346 @@
             "sp": "粤"
         }],
         "GB": [{
-            "p": "Avon"
+            "p": "Avon",
             "reg": "England"
         }, {
-            "p": "Bedfordshire"
+            "p": "Bedfordshire",
             "reg": "England"
         }, {
-            "p": "Berkshire"
+            "p": "Berkshire",
             "reg": "England"
         }, {
-            "p": "Borders"
+            "p": "Borders",
             "reg": "England"
         }, {
-            "p": "Bristol"
+            "p": "Bristol",
             "reg": "England"
         }, {
-            "p": "Buckinghamshire"
+            "p": "Buckinghamshire",
             "reg": "England"
         }, {
-            "p": "Cambridgeshire"
+            "p": "Cambridgeshire",
             "reg": "England"
         }, {
-            "p": "Channel Islands"
+            "p": "Channel Islands",
             "reg": "England"
         }, {
-            "p": "Cheshire"
+            "p": "Cheshire",
             "reg": "England"
         }, {
-            "p": "Cleveland"
+            "p": "Cleveland",
             "reg": "England"
         }, {
-            "p": "Cornwall"
+            "p": "Cornwall",
             "reg": "England"
         }, {
-            "p": "Cumbria"
+            "p": "Cumbria",
             "reg": "England"
         }, {
-            "p": "Derbyshire"
+            "p": "Derbyshire",
             "reg": "England"
         }, {
-            "p": "Devon"
+            "p": "Devon",
             "reg": "England"
         }, {
-            "p": "Dorset"
+            "p": "Dorset",
             "reg": "England"
         }, {
-            "p": "Durham"
+            "p": "Durham",
             "reg": "England"
         }, {
-            "p": "East Riding of Yorkshire"
+            "p": "East Riding of Yorkshire",
             "reg": "England"
         }, {
-            "p": "East Sussex"
+            "p": "East Sussex",
             "reg": "England"
         }, {
-            "p": "Essex"
+            "p": "Essex",
             "reg": "England"
         }, {
-            "p": "Gloucestershire"
+            "p": "Gloucestershire",
             "reg": "England"
         }, {
-            "p": "Greater Manchester"
+            "p": "Greater Manchester",
             "reg": "England"
         }, {
-            "p": "Hampshire"
+            "p": "Hampshire",
             "reg": "England"
         }, {
-            "p": "Herefordshire"
+            "p": "Herefordshire",
             "reg": "England"
         }, {
-            "p": "Hertfordshire"
+            "p": "Hertfordshire",
             "reg": "England"
         }, {
-            "p": "Humberside"
+            "p": "Humberside",
             "reg": "England"
         }, {
-            "p": "Isle of Man"
+            "p": "Isle of Man",
             "reg": "England"
         }, {
-            "p": "Isle of Wight"
+            "p": "Isle of Wight",
             "reg": "England"
         }, {
-            "p": "Isles of Scilly"
+            "p": "Isles of Scilly",
             "reg": "England"
         }, {
-            "p": "Kent"
+            "p": "Kent",
             "reg": "England"
         }, {
-            "p": "Lancashire"
+            "p": "Lancashire",
             "reg": "England"
         }, {
-            "p": "Leicestershire"
+            "p": "Leicestershire",
             "reg": "England"
         }, {
-            "p": "Lincolnshire"
+            "p": "Lincolnshire",
             "reg": "England"
         }, {
-            "p": "London"
+            "p": "London",
             "reg": "England"
         }, {
-            "p": "Merseyside"
+            "p": "Merseyside",
             "reg": "England"
         }, {
-            "p": "Middlesex"
+            "p": "Middlesex",
             "reg": "England"
         }, {
-            "p": "Norfolk"
+            "p": "Norfolk",
             "reg": "England"
         }, {
-            "p": "North Yorkshire"
+            "p": "North Yorkshire",
             "reg": "England"
         }, {
-            "p": "Northamptonshire"
+            "p": "Northamptonshire",
             "reg": "England"
         }, {
-            "p": "Northumberland"
+            "p": "Northumberland",
             "reg": "England"
         }, {
-            "p": "Nottinghamshire"
+            "p": "Nottinghamshire",
             "reg": "England"
         }, {
-            "p": "Oxfordshire"
+            "p": "Oxfordshire",
             "reg": "England"
         }, {
-            "p": "Rutland"
+            "p": "Rutland",
             "reg": "England"
         }, {
-            "p": "Shropshire"
+            "p": "Shropshire",
             "reg": "England"
         }, {
-            "p": "Somerset"
+            "p": "Somerset",
             "reg": "England"
         }, {
-            "p": "South Yorkshire"
+            "p": "South Yorkshire",
             "reg": "England"
         }, {
-            "p": "Staffordshire"
+            "p": "Staffordshire",
             "reg": "England"
         }, {
-            "p": "Suffolk"
+            "p": "Suffolk",
             "reg": "England"
         }, {
-            "p": "Surrey"
+            "p": "Surrey",
             "reg": "England"
         }, {
-            "p": "Tyne and Wear"
+            "p": "Tyne and Wear",
             "reg": "England"
         }, {
-            "p": "Warwickshire"
+            "p": "Warwickshire",
             "reg": "England"
         }, {
-            "p": "West Midlands"
+            "p": "West Midlands",
             "reg": "England"
         }, {
-            "p": "West Sussex"
+            "p": "West Sussex",
             "reg": "England"
         }, {
-            "p": "West Yorkshire"
+            "p": "West Yorkshire",
             "reg": "England"
         }, {
-            "p": "Wiltshire"
+            "p": "Wiltshire",
             "reg": "England"
         }, {
-            "p": "Worcestershire"
+            "p": "Worcestershire",
             "reg": "England"
         }, {
-            "p": "Antrim"
+            "p": "Antrim",
             "reg": "Northern Ireland"
         }, {
-            "p": "Down"
+            "p": "Down",
             "reg": "Northern Ireland"
         }, {
-            "p": "Fermanagh"
+            "p": "Fermanagh",
             "reg": "Northern Ireland"
         }, {
-            "p": "Londonderry"
+            "p": "Londonderry",
             "reg": "Northern Ireland"
         }, {
-            "p": "Tyrone"
+            "p": "Tyrone",
             "reg": "Northern Ireland"
         }, {
-            "p": "Aberdeen City"
+            "p": "Aberdeen City",
             "reg": "Scotland"
         }, {
-            "p": "Aberdeenshire"
+            "p": "Aberdeenshire",
             "reg": "Scotland"
         }, {
-            "p": "Angus"
+            "p": "Angus",
             "reg": "Scotland"
         }, {
-            "p": "Argyll and Bute"
+            "p": "Argyll and Bute",
             "reg": "Scotland"
         }, {
-            "p": "Armagh"
+            "p": "Armagh",
             "reg": "Scotland"
         }, {
-            "p": "Carmarthenshire"
+            "p": "Carmarthenshire",
             "reg": "Scotland"
         }, {
-            "p": "Clackmannan"
+            "p": "Clackmannan",
             "reg": "Scotland"
         }, {
-            "p": "Dumfries and Galloway"
+            "p": "Dumfries and Galloway",
             "reg": "Scotland"
         }, {
-            "p": "East Ayrshire"
+            "p": "East Ayrshire",
             "reg": "Scotland"
         }, {
-            "p": "East Dunbartonshire"
+            "p": "East Dunbartonshire",
             "reg": "Scotland"
         }, {
-            "p": "East Lothian"
+            "p": "East Lothian",
             "reg": "Scotland"
         }, {
-            "p": "East Renfrewshire"
+            "p": "East Renfrewshire",
             "reg": "Scotland"
         }, {
-            "p": "Edinburgh City"
+            "p": "Edinburgh City",
             "reg": "Scotland"
         }, {
-            "p": "Falkirk"
+            "p": "Falkirk",
             "reg": "Scotland"
         }, {
-            "p": "Fife"
+            "p": "Fife",
             "reg": "Scotland"
         }, {
-            "p": "Glasgow"
+            "p": "Glasgow",
             "reg": "Scotland"
         }, {
-            "p": "Highland"
+            "p": "Highland",
             "reg": "Scotland"
         }, {
-            "p": "Inverclyde"
+            "p": "Inverclyde",
             "reg": "Scotland"
         }, {
-            "p": "Midlothian"
+            "p": "Midlothian",
             "reg": "Scotland"
         }, {
-            "p": "Moray"
+            "p": "Moray",
             "reg": "Scotland"
         }, {
-            "p": "North Ayrshire"
+            "p": "North Ayrshire",
             "reg": "Scotland"
         }, {
-            "p": "North Lanarkshire"
+            "p": "North Lanarkshire",
             "reg": "Scotland"
         }, {
-            "p": "Orkney"
+            "p": "Orkney",
             "reg": "Scotland"
         }, {
-            "p": "Perthshire and Kinross"
+            "p": "Perthshire and Kinross",
             "reg": "Scotland"
         }, {
-            "p": "Renfrewshire"
+            "p": "Renfrewshire",
             "reg": "Scotland"
         }, {
-            "p": "Roxburghshire"
+            "p": "Roxburghshire",
             "reg": "Scotland"
         }, {
-            "p": "Shetland"
+            "p": "Shetland",
             "reg": "Scotland"
         }, {
-            "p": "South Ayrshire"
+            "p": "South Ayrshire",
             "reg": "Scotland"
         }, {
-            "p": "South Lanarkshire"
+            "p": "South Lanarkshire",
             "reg": "Scotland"
         }, {
-            "p": "Stirling"
+            "p": "Stirling",
             "reg": "Scotland"
         }, {
-            "p": "West Dunbartonshire"
+            "p": "West Dunbartonshire",
             "reg": "Scotland"
         }, {
-            "p": "West Lothian"
+            "p": "West Lothian",
             "reg": "Scotland"
         }, {
-            "p": "Western Isles"
+            "p": "Western Isles",
             "reg": "Scotland"
         }, {
-            "p": "Blaenau Gwent"
+            "p": "Blaenau Gwent",
             "reg": "Wales"
         }, {
-            "p": "Bridgend"
+            "p": "Bridgend",
             "reg": "Wales"
         }, {
-            "p": "Caerphilly"
+            "p": "Caerphilly",
             "reg": "Wales"
         }, {
-            "p": "Cardiff"
+            "p": "Cardiff",
             "reg": "Wales"
         }, {
-            "p": "Ceredigion"
+            "p": "Ceredigion",
             "reg": "Wales"
         }, {
-            "p": "Conwy"
+            "p": "Conwy",
             "reg": "Wales"
         }, {
-            "p": "Denbighshire"
+            "p": "Denbighshire",
             "reg": "Wales"
         }, {
-            "p": "Flintshire"
+            "p": "Flintshire",
             "reg": "Wales"
         }, {
-            "p": "Gwynedd"
+            "p": "Gwynedd",
             "reg": "Wales"
         }, {
-            "p": "Isle of Anglesey"
+            "p": "Isle of Anglesey",
             "reg": "Wales"
         }, {
-            "p": "Merthyr Tydfil"
+            "p": "Merthyr Tydfil",
             "reg": "Wales"
         }, {
-            "p": "Monmouthshire"
+            "p": "Monmouthshire",
             "reg": "Wales"
         }, {
-            "p": "Neath Port Talbot"
+            "p": "Neath Port Talbot",
             "reg": "Wales"
         }, {
-            "p": "Newport"
+            "p": "Newport",
             "reg": "Wales"
         }, {
-            "p": "Pembrokeshire"
+            "p": "Pembrokeshire",
             "reg": "Wales"
         }, {
-            "p": "Powys"
+            "p": "Powys",
             "reg": "Wales"
         }, {
-            "p": "Rhondda Cynon Taff"
+            "p": "Rhondda Cynon Taff",
             "reg": "Wales"
         }, {
-            "p": "Swansea"
+            "p": "Swansea",
             "reg": "Wales"
         }, {
-            "p": "The Vale of Glamorgan"
+            "p": "The Vale of Glamorgan",
             "reg": "Wales"
         }, {
-            "p": "Torfaen"
+            "p": "Torfaen",
             "reg": "Wales"
         }, {
-            "p": "Wrexham"
+            "p": "Wrexham",
             "reg": "Wales"
         }],
         "DE": [{
