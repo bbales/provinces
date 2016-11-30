@@ -277,7 +277,7 @@
             "p": "New Brunswick"
         }, {
             "sp": "NL",
-            "p": "Newfoundland and Labrador"
+            "p": "Newfoundland and Labrador",
             "alt": ["Newfoundland", "Labrador"]
         }, {
             "sp": "NS",
@@ -1035,11 +1035,11 @@
             "p": "Antwerpen"
         }, {
             "sp": "HAI",
-            "p": "Henegouwen"
+            "p": "Henegouwen",
             "alt": ["Hainaut"]
         }, {
             "sp": "LIE",
-            "p": "Luik"
+            "p": "Luik",
             "alt": ["Liège"]
         }, {
             "sp": "LIM",
